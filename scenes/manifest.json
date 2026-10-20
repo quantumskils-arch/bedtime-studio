@@ -1,0 +1,64 @@
+{
+ "scenes": [
+  {
+   "file": "scene_00_intro.png",
+   "slug": "intro",
+   "title": "Intro / wind-down"
+  },
+  {
+   "file": "scene_01_gen11.png",
+   "slug": "gen11",
+   "title": "Genesis 1:1"
+  },
+  {
+   "file": "scene_02_day1.png",
+   "slug": "day1",
+   "title": "Day 1 \u2014 Let there be light"
+  },
+  {
+   "file": "scene_03_day2.png",
+   "slug": "day2",
+   "title": "Day 2 \u2014 The sky"
+  },
+  {
+   "file": "scene_04_day3.png",
+   "slug": "day3",
+   "title": "Day 3 \u2014 Land + vegetation"
+  },
+  {
+   "file": "scene_05_day4.png",
+   "slug": "day4",
+   "title": "Day 4 \u2014 Sun, moon, stars"
+  },
+  {
+   "file": "scene_06_day5.png",
+   "slug": "day5",
+   "title": "Day 5 \u2014 Fish and birds"
+  },
+  {
+   "file": "scene_07_day6.png",
+   "slug": "day6",
+   "title": "Day 6 \u2014 Animals + humanity"
+  },
+  {
+   "file": "scene_08_imago.png",
+   "slug": "imago",
+   "title": "Made in God's image"
+  },
+  {
+   "file": "scene_09_eden.png",
+   "slug": "eden",
+   "title": "The Garden / Eden"
+  },
+  {
+   "file": "scene_10_closing.png",
+   "slug": "closing",
+   "title": "Closing \u2014 rest here"
+  },
+  {
+   "file": "scene_11_preview.png",
+   "slug": "preview",
+   "title": "Next episode preview"
+  }
+ ]
+}
