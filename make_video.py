@@ -54,10 +54,13 @@ def scene_spans(times, audio_dur, n):
 
 
 def zoom_expr(i, frames):
-    # alternate slow zoom-in / zoom-out, capped ~5%
+    # alternate slow zoom-in / zoom-out with a gentle lateral sway (bedtime-safe)
+    sway = f"+sin(on/{frames}*PI*2)*30"
+    x = f"iw/2-(iw/zoom/2){sway}"
+    y = "ih/2-(ih/zoom/2)"
     if i % 2 == 0:
-        return f"min(1.0+0.05*on/{frames},1.05)", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"
-    return f"max(1.05-0.05*on/{frames},1.0)", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"
+        return f"min(1.0+0.05*on/{frames},1.05)", x, y
+    return f"max(1.05-0.05*on/{frames},1.0)", x, y
 
 
 def build_multiscene(a, dur):
@@ -88,9 +91,16 @@ def build_multiscene(a, dur):
                      f"offset={offset:.3f}[{out}]")
         cur = out
 
+    vfinal = "vfinal"
+    if getattr(a, "ass", None):
+        parts.append(f"[vout]ass='{os.path.abspath(a.ass)}'[vfinal]")
+    else:
+        parts.append("[vout]null[vfinal]")
+
     parts.append(f"[{n + 1}:a]aresample=48000,volume=1.0[voice]")
     parts.append(f"[{n}:a]aresample=48000,volume=0.11[mus]")
-    parts.append("[voice][mus]amix=inputs=2:duration=first:normalize=0[aout]")
+    parts.append("[voice][mus]amix=inputs=2:duration=first:normalize=0[mixed]")
+    parts.append("[mixed]loudnorm=I=-16:TP=-1.5:LRA=11,aresample=48000[aout]")
 
     fpath = "/tmp/opencode/filter_multiscene.txt"
     os.makedirs("/tmp/opencode", exist_ok=True)
@@ -105,7 +115,7 @@ def build_multiscene(a, dur):
         cmd += ["-i", path]
     cmd += ["-stream_loop", "-1", "-i", a.music, "-i", a.audio,
             "-filter_complex", filt,
-            "-map", "[vout]", "-map", "[aout]",
+             "-map", "[vfinal]", "-map", "[aout]",
             "-t", f"{dur:.3f}",
             "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
             "-c:a", "aac", "-b:a", "192k",
@@ -148,6 +158,7 @@ def main():
     ap.add_argument("--music", required=True)
     ap.add_argument("--out", required=True)
     ap.add_argument("--chapters", help="chapters.json key, e.g. ep1_andrew")
+    ap.add_argument("--ass", help="karaoke captions file to burn (from captions.py)")
     a = ap.parse_args()
 
     if not a.chapters and not a.cover:

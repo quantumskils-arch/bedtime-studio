@@ -9,3 +9,5 @@ tts_andrew.log
 # keep scripts, narration source, artwork specs and upload pack
 !cover.png
 !thumb.jpg
+__pycache__/
+*_panel.png

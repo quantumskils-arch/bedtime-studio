@@ -1,0 +1,894 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Kara,DejaVu Sans,60,&H005EAFD4,&H00FFFFFF,&H00140A05,&H66140A05,-1,0,0,0,100,100,0.5,0,3,14,0,2,60,60,190,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.11,0:00:02.37,Kara,,0,0,0,,{\k22}Close {\k1}{\k9}your {\k1}{\k56}laptop {\k46}{\k45}Silence {\k1}{\k9}your
+Dialogue: 0,0:00:02.04,0:00:04.47,Kara,,0,0,0,,{\k96}notifications {\k45}{\k12}Dim {\k1}{\k11}your {\k1}{\k41}screen
+Dialogue: 0,0:00:04.56,0:00:06.10,Kara,,0,0,0,,{\k11}You've {\k1}{\k14}been {\k1}{\k42}staring {\k1}{\k11}at {\k1}{\k35}code
+Dialogue: 0,0:00:05.76,0:00:07.58,Kara,,0,0,0,,{\k18}all {\k1}{\k34}day {\k45}{\k49}Debugging
+Dialogue: 0,0:00:07.68,0:00:10.08,Kara,,0,0,0,,{\k75}Refactoring {\k45}{\k23}Trying {\k1}{\k5}to {\k1}{\k18}make {\k1}{\k35}something
+Dialogue: 0,0:00:09.74,0:00:11.88,Kara,,0,0,0,,{\k18}from {\k1}{\k41}nothing {\k45}{\k26}Trying {\k1}{\k10}to {\k1}{\k37}bring
+Dialogue: 0,0:00:11.67,0:00:13.99,Kara,,0,0,0,,{\k29}order {\k1}{\k9}to {\k1}{\k73}chaos {\k46}{\k37}Tonight
+Dialogue: 0,0:00:13.97,0:00:15.09,Kara,,0,0,0,,{\k11}we {\k1}{\k16}go {\k1}{\k29}back {\k1}{\k7}to {\k1}{\k9}the
+Dialogue: 0,0:00:14.76,0:00:17.03,Kara,,0,0,0,,{\k38}first {\k1}{\k35}code {\k16}{\k19}ever {\k1}{\k30}written {\k45}{\k7}The
+Dialogue: 0,0:00:16.70,0:00:18.99,Kara,,0,0,0,,{\k53}original {\k1}{\k88}repository {\k45}{\k7}The
+Dialogue: 0,0:00:18.65,0:00:21.37,Kara,,0,0,0,,{\k50}initial {\k1}{\k43}commit {\k8}{\k16}that {\k1}{\k57}compiled {\k1}{\k57}reality
+Dialogue: 0,0:00:21.03,0:00:23.65,Kara,,0,0,0,,{\k64}itself {\k46}{\k35}Tonight {\k27}{\k10}we {\k1}{\k22}talk {\k1}{\k20}about
+Dialogue: 0,0:00:23.32,0:00:25.69,Kara,,0,0,0,,{\k65}Genesis {\k46}{\k8}But {\k1}{\k19}not {\k1}{\k9}the {\k1}{\k50}Genesis
+Dialogue: 0,0:00:25.35,0:00:26.87,Kara,,0,0,0,,{\k11}you {\k1}{\k18}heard {\k1}{\k8}in {\k1}{\k35}Sunday {\k1}{\k39}school
+Dialogue: 0,0:00:26.98,0:00:28.69,Kara,,0,0,0,,{\k8}We {\k1}{\k22}talk {\k1}{\k26}about {\k1}{\k56}Genesis {\k5}{\k15}as
+Dialogue: 0,0:00:28.36,0:00:30.70,Kara,,0,0,0,,{\k31}source {\k1}{\k38}code {\k45}{\k14}As {\k1}{\k12}the {\k1}{\k56}bootstrap
+Dialogue: 0,0:00:30.37,0:00:32.78,Kara,,0,0,0,,{\k53}sequence {\k1}{\k12}for {\k1}{\k7}the {\k1}{\k72}universe {\k45}{\k14}As
+Dialogue: 0,0:00:32.45,0:00:35.12,Kara,,0,0,0,,{\k12}the {\k1}{\k49}ultimate {\k1}{\k52}engineering {\k1}{\k61}document {\k46}{\k8}We
+Dialogue: 0,0:00:34.78,0:00:36.73,Kara,,0,0,0,,{\k25}talk {\k1}{\k27}about {\k1}{\k64}creation {\k1}{\k30}not {\k1}{\k9}as
+Dialogue: 0,0:00:36.40,0:00:38.62,Kara,,0,0,0,,{\k61}magic {\k30}{\k16}but {\k1}{\k14}as {\k1}{\k64}information
+Dialogue: 0,0:00:38.29,0:00:40.66,Kara,,0,0,0,,{\k77}architecture {\k45}{\k14}As {\k1}{\k7}the {\k1}{\k45}moment {\k1}{\k11}when
+Dialogue: 0,0:00:40.33,0:00:42.98,Kara,,0,0,0,,{\k13}the {\k7}{\k49}ultimate {\k1}{\k68}Programmer {\k1}{\k80}initialized {\k1}{\k9}the
+Dialogue: 0,0:00:42.65,0:00:45.05,Kara,,0,0,0,,{\k53}system {\k27}{\k48}declared {\k1}{\k76}variables
+Dialogue: 0,0:00:44.90,0:00:47.17,Kara,,0,0,0,,{\k20}and {\k8}{\k64}executed {\k1}{\k8}the {\k1}{\k45}first {\k1}{\k42}function
+Dialogue: 0,0:00:46.83,0:00:49.11,Kara,,0,0,0,,{\k12}that {\k1}{\k15}would {\k1}{\k72}cascade {\k1}{\k24}into {\k15}{\k50}everything
+Dialogue: 0,0:00:48.78,0:00:51.16,Kara,,0,0,0,,{\k12}you {\k1}{\k41}see {\k45}{\k49}everything {\k1}{\k19}you {\k1}{\k34}are
+Dialogue: 0,0:00:51.07,0:00:53.26,Kara,,0,0,0,,{\k44}everything {\k1}{\k18}that {\k1}{\k52}runs {\k45}{\k14}You {\k1}{\k8}are
+Dialogue: 0,0:00:52.92,0:00:55.04,Kara,,0,0,0,,{\k4}a {\k1}{\k65}developer {\k45}{\k11}You {\k1}{\k22}write {\k1}{\k26}code
+Dialogue: 0,0:00:54.70,0:00:56.97,Kara,,0,0,0,,{\k13}that {\k1}{\k64}creates {\k45}{\k14}You {\k1}{\k53}architect
+Dialogue: 0,0:00:56.63,0:00:58.98,Kara,,0,0,0,,{\k54}systems {\k1}{\k20}that {\k1}{\k30}didn't {\k1}{\k52}exist {\k1}{\k38}before
+Dialogue: 0,0:00:58.64,0:01:00.21,Kara,,0,0,0,,{\k12}you {\k1}{\k33}thought {\k1}{\k14}them {\k1}{\k20}into {\k1}{\k38}being
+Dialogue: 0,0:01:00.31,0:01:02.10,Kara,,0,0,0,,{\k35}Tonight {\k42}{\k11}you'll {\k1}{\k28}see {\k1}{\k12}that {\k1}{\k11}you're
+Dialogue: 0,0:01:01.77,0:01:03.70,Kara,,0,0,0,,{\k19}not {\k1}{\k7}the {\k1}{\k57}first {\k45}{\k9}You're {\k1}{\k18}not
+Dialogue: 0,0:01:03.37,0:01:05.88,Kara,,0,0,0,,{\k19}even {\k1}{\k8}the {\k1}{\k50}best {\k46}{\k37}Before {\k1}{\k52}GitHub
+Dialogue: 0,0:01:05.76,0:01:08.12,Kara,,0,0,0,,{\k39}before {\k1}{\k35}Git {\k27}{\k41}before {\k1}{\k56}UNIX
+Dialogue: 0,0:01:07.96,0:01:10.29,Kara,,0,0,0,,{\k35}before {\k1}{\k8}the {\k1}{\k34}first {\k1}{\k62}compiler {\k46}{\k8}There
+Dialogue: 0,0:01:09.96,0:01:12.28,Kara,,0,0,0,,{\k12}was {\k1}{\k69}Genesis {\k46}{\k7}The {\k1}{\k60}original
+Dialogue: 0,0:01:12.01,0:01:14.45,Kara,,0,0,0,,{\k54}open-source {\k1}{\k62}project {\k45}{\k18}Let's {\k1}{\k18}read {\k1}{\k8}the
+Dialogue: 0,0:01:14.12,0:01:16.34,Kara,,0,0,0,,{\k38}code {\k45}{\k8}In {\k1}{\k8}the {\k1}{\k43}beginning {\k1}{\k41}God
+Dialogue: 0,0:01:16.00,0:01:17.86,Kara,,0,0,0,,{\k52}created {\k1}{\k8}the {\k1}{\k49}heaven {\k16}{\k11}and {\k1}{\k11}the
+Dialogue: 0,0:01:17.53,0:01:19.60,Kara,,0,0,0,,{\k46}earth {\k45}{\k9}And {\k1}{\k12}the {\k1}{\k35}earth {\k1}{\k20}was
+Dialogue: 0,0:01:19.27,0:01:21.79,Kara,,0,0,0,,{\k41}without {\k1}{\k57}form {\k45}{\k9}and {\k1}{\k62}void
+Dialogue: 0,0:01:21.83,0:01:23.49,Kara,,0,0,0,,{\k12}and {\k1}{\k57}darkness {\k1}{\k18}was {\k1}{\k30}upon {\k1}{\k8}the
+Dialogue: 0,0:01:23.15,0:01:25.08,Kara,,0,0,0,,{\k47}face {\k1}{\k8}of {\k1}{\k9}the {\k1}{\k35}deep {\k45}{\k8}And
+Dialogue: 0,0:01:24.74,0:01:26.69,Kara,,0,0,0,,{\k8}the {\k1}{\k49}Spirit {\k1}{\k14}of {\k1}{\k41}God {\k1}{\k44}moved
+Dialogue: 0,0:01:26.36,0:01:27.75,Kara,,0,0,0,,{\k29}upon {\k1}{\k8}the {\k1}{\k46}face {\k1}{\k8}of {\k1}{\k8}the
+Dialogue: 0,0:01:27.42,0:01:29.81,Kara,,0,0,0,,{\k62}waters {\k45}{\k25}Listen {\k1}{\k9}to {\k1}{\k19}that {\k1}{\k39}opening
+Dialogue: 0,0:01:29.99,0:01:31.78,Kara,,0,0,0,,{\k4}In {\k8}the {\k1}{\k50}beginning {\k46}{\k14}Not {\k1}{\k19}once
+Dialogue: 0,0:01:31.44,0:01:33.26,Kara,,0,0,0,,{\k27}upon {\k1}{\k4}a {\k1}{\k39}time {\k45}{\k18}Not {\k1}{\k9}in
+Dialogue: 0,0:01:32.92,0:01:35.65,Kara,,0,0,0,,{\k19}some {\k1}{\k75}mythological {\k1}{\k79}prehistory {\k45}{\k8}In {\k1}{\k8}the
+Dialogue: 0,0:01:35.31,0:01:37.50,Kara,,0,0,0,,{\k48}beginning {\k45}{\k5}The {\k1}{\k38}moment {\k1}{\k14}when {\k1}{\k30}time
+Dialogue: 0,0:01:37.16,0:01:39.86,Kara,,0,0,0,,{\k42}itself {\k1}{\k84}initialized {\k45}{\k10}When {\k1}{\k8}the {\k1}{\k42}first
+Dialogue: 0,0:01:39.52,0:01:41.30,Kara,,0,0,0,,{\k27}tick {\k1}{\k8}of {\k1}{\k8}the {\k1}{\k49}cosmic {\k1}{\k45}clock
+Dialogue: 0,0:01:41.09,0:01:43.64,Kara,,0,0,0,,{\k41}started {\k1}{\k65}incrementing {\k45}{\k22}T {\k11}{\k35}equals
+Dialogue: 0,0:01:43.30,0:01:45.72,Kara,,0,0,0,,{\k46}zero {\k46}{\k7}The {\k1}{\k22}Big {\k1}{\k33}Bang {\k46}{\k4}The
+Dialogue: 0,0:01:45.38,0:01:47.18,Kara,,0,0,0,,{\k35}moment {\k1}{\k56}before {\k1}{\k23}which {\k1}{\k12}there {\k1}{\k14}was
+Dialogue: 0,0:01:46.85,0:01:48.83,Kara,,0,0,0,,{\k19}no {\k1}{\k56}before {\k45}{\k9}And {\k1}{\k15}what {\k1}{\k15}was
+Dialogue: 0,0:01:48.49,0:01:50.32,Kara,,0,0,0,,{\k9}the {\k1}{\k34}state {\k1}{\k9}of {\k1}{\k68}reality {\k12}{\k11}at
+Dialogue: 0,0:01:49.99,0:01:52.22,Kara,,0,0,0,,{\k27}T {\k7}{\k35}= {\k1}{\k42}0 {\k54}{\k22}Without
+Dialogue: 0,0:01:51.96,0:01:54.67,Kara,,0,0,0,,{\k48}form {\k24}{\k7}and {\k1}{\k53}void {\k46}{\k9}In {\k1}{\k46}Hebrew
+Dialogue: 0,0:01:54.63,0:01:56.86,Kara,,0,0,0,,{\k33}tohu {\k1}{\k57}wabohu {\k48}{\k49}Formless
+Dialogue: 0,0:01:56.96,0:01:58.60,Kara,,0,0,0,,{\k35}Empty {\k45}{\k49}Chaotic
+Dialogue: 0,0:01:58.69,0:02:01.12,Kara,,0,0,0,,{\k71}Unstructured {\k45}{\k11}If {\k1}{\k14}you're {\k1}{\k4}a {\k1}{\k60}developer
+Dialogue: 0,0:02:01.09,0:02:02.84,Kara,,0,0,0,,{\k8}you {\k1}{\k20}know {\k1}{\k16}this {\k1}{\k31}state {\k1}{\k58}intimately
+Dialogue: 0,0:02:02.93,0:02:04.83,Kara,,0,0,0,,{\k20}This {\k1}{\k11}is {\k1}{\k14}your {\k1}{\k64}codebase {\k1}{\k41}before
+Dialogue: 0,0:02:04.50,0:02:06.00,Kara,,0,0,0,,{\k12}you {\k1}{\k20}write {\k1}{\k8}the {\k1}{\k39}first {\k1}{\k30}line
+Dialogue: 0,0:02:06.10,0:02:08.26,Kara,,0,0,0,,{\k18}This {\k1}{\k14}is {\k1}{\k71}undefined {\k46}{\k16}This {\k1}{\k12}is
+Dialogue: 0,0:02:07.92,0:02:09.93,Kara,,0,0,0,,{\k34}null {\k45}{\k23}This {\k1}{\k11}is {\k1}{\k11}the {\k7}{\k33}empty
+Dialogue: 0,0:02:09.59,0:02:12.06,Kara,,0,0,0,,{\k88}repository {\k45}{\k25}This {\k1}{\k15}is {\k1}{\k37}RAM
+Dialogue: 0,0:02:11.72,0:02:14.29,Kara,,0,0,0,,{\k45}before {\k1}{\k100}initialization {\k42}{\k33}random
+Dialogue: 0,0:02:13.95,0:02:16.42,Kara,,0,0,0,,{\k52}noise {\k31}{\k22}no {\k1}{\k49}pattern {\k44}{\k14}no
+Dialogue: 0,0:02:16.09,0:02:18.84,Kara,,0,0,0,,{\k57}structure {\k42}{\k14}no {\k1}{\k38}meaning {\k54}{\k10}The {\k1}{\k23}earth
+Dialogue: 0,0:02:18.50,0:02:20.98,Kara,,0,0,0,,{\k61}existed {\k26}{\k16}but {\k1}{\k31}only {\k1}{\k14}as {\k1}{\k61}potential
+Dialogue: 0,0:02:21.08,0:02:23.28,Kara,,0,0,0,,{\k16}As {\k1}{\k44}memory {\k1}{\k65}allocated {\k9}{\k19}but {\k1}{\k27}not
+Dialogue: 0,0:02:22.94,0:02:24.77,Kara,,0,0,0,,{\k26}yet {\k1}{\k26}written {\k1}{\k31}to {\k45}{\k11}As {\k1}{\k5}a
+Dialogue: 0,0:02:24.44,0:02:26.93,Kara,,0,0,0,,{\k50}variable {\k1}{\k56}declared {\k11}{\k15}but {\k1}{\k23}not {\k1}{\k56}defined
+Dialogue: 0,0:02:27.03,0:02:29.23,Kara,,0,0,0,,{\k12}And {\k1}{\k34}then {\k31}{\k9}the {\k1}{\k41}critical {\k1}{\k53}detail
+Dialogue: 0,0:02:29.41,0:02:30.87,Kara,,0,0,0,,{\k3}And {\k8}the {\k1}{\k45}Spirit {\k1}{\k12}of {\k1}{\k39}God
+Dialogue: 0,0:02:30.54,0:02:32.31,Kara,,0,0,0,,{\k46}moved {\k1}{\k28}upon {\k1}{\k8}the {\k1}{\k46}face {\k1}{\k8}of
+Dialogue: 0,0:02:31.98,0:02:34.60,Kara,,0,0,0,,{\k8}the {\k1}{\k65}waters {\k46}{\k31}Moved {\k1}{\k11}in {\k1}{\k61}Hebrew
+Dialogue: 0,0:02:34.37,0:02:36.76,Kara,,0,0,0,,{\k18}is {\k1}{\k60}rachaph {\k26}{\k9}to {\k1}{\k49}hover {\k30}{\k9}to
+Dialogue: 0,0:02:36.42,0:02:38.89,Kara,,0,0,0,,{\k46}brood {\k29}{\k9}to {\k1}{\k61}vibrate {\k45}{\k14}Like {\k1}{\k5}a
+Dialogue: 0,0:02:38.55,0:02:41.23,Kara,,0,0,0,,{\k68}processor {\k1}{\k29}waiting {\k1}{\k11}to {\k1}{\k62}execute {\k45}{\k14}Like
+Dialogue: 0,0:02:40.89,0:02:43.31,Kara,,0,0,0,,{\k7}a {\k1}{\k71}runtime {\k1}{\k64}environment {\k1}{\k38}spun {\k1}{\k22}up
+Dialogue: 0,0:02:43.12,0:02:45.30,Kara,,0,0,0,,{\k12}and {\k1}{\k35}ready {\k44}{\k50}hovering {\k1}{\k24}over {\k1}{\k14}the
+Dialogue: 0,0:02:45.03,0:02:47.48,Kara,,0,0,0,,{\k35}empty {\k1}{\k27}data {\k1}{\k56}structure {\k42}{\k34}waiting {\k1}{\k11}for
+Dialogue: 0,0:02:47.14,0:02:49.61,Kara,,0,0,0,,{\k8}the {\k1}{\k42}first {\k1}{\k61}instruction {\k46}{\k7}The {\k1}{\k44}Spirit
+Dialogue: 0,0:02:49.27,0:02:51.42,Kara,,0,0,0,,{\k12}of {\k1}{\k46}God {\k19}{\k11}is {\k1}{\k8}the {\k1}{\k79}interpreter
+Dialogue: 0,0:02:51.53,0:02:53.74,Kara,,0,0,0,,{\k5}The {\k1}{\k50}runtime {\k46}{\k7}The {\k1}{\k75}execution
+Dialogue: 0,0:02:53.40,0:02:56.08,Kara,,0,0,0,,{\k71}environment {\k45}{\k8}And {\k1}{\k42}God {\k45}{\k20}God
+Dialogue: 0,0:02:55.74,0:02:56.93,Kara,,0,0,0,,{\k9}is {\k1}{\k28}about {\k1}{\k11}to {\k1}{\k20}write {\k1}{\k9}the
+Dialogue: 0,0:02:56.60,0:02:58.66,Kara,,0,0,0,,{\k39}first {\k1}{\k20}line {\k1}{\k11}of {\k1}{\k39}code {\k45}{\k12}And
+Dialogue: 0,0:02:58.32,0:03:00.33,Kara,,0,0,0,,{\k33}God {\k1}{\k48}said {\k39}{\k14}Let {\k1}{\k14}there {\k1}{\k15}be
+Dialogue: 0,0:02:59.99,0:03:01.85,Kara,,0,0,0,,{\k41}light {\k35}{\k8}and {\k1}{\k11}there {\k1}{\k15}was {\k1}{\k37}light
+Dialogue: 0,0:03:01.95,0:03:04.42,Kara,,0,0,0,,{\k39}Stop {\k45}{\k15}Read {\k1}{\k14}that {\k1}{\k35}again {\k46}{\k15}Feel
+Dialogue: 0,0:03:04.08,0:03:05.60,Kara,,0,0,0,,{\k8}the {\k1}{\k19}weight {\k1}{\k9}of {\k1}{\k19}it {\k53}{\k4}And
+Dialogue: 0,0:03:05.25,0:03:07.44,Kara,,0,0,0,,{\k34}God {\k1}{\k38}said {\k46}{\k19}God {\k1}{\k22}didn't {\k1}{\k20}use
+Dialogue: 0,0:03:07.10,0:03:09.65,Kara,,0,0,0,,{\k53}tools {\k45}{\k20}Didn't {\k1}{\k57}manipulate {\k1}{\k42}matter
+Dialogue: 0,0:03:09.75,0:03:12.38,Kara,,0,0,0,,{\k22}Didn't {\k1}{\k45}assemble {\k1}{\k52}atoms {\k45}{\k19}God {\k1}{\k42}spoke
+Dialogue: 0,0:03:12.56,0:03:14.32,Kara,,0,0,0,,{\k3}Let {\k8}{\k15}there {\k1}{\k14}be {\k1}{\k39}light {\k46}{\k14}This
+Dialogue: 0,0:03:13.99,0:03:16.12,Kara,,0,0,0,,{\k11}is {\k1}{\k5}a {\k1}{\k53}command {\k45}{\k7}An {\k1}{\k53}imperative
+Dialogue: 0,0:03:15.78,0:03:18.47,Kara,,0,0,0,,{\k60}statement {\k45}{\k5}A {\k1}{\k38}function {\k1}{\k33}call {\k45}{\k6}And
+Dialogue: 0,0:03:18.13,0:03:20.04,Kara,,0,0,0,,{\k12}what {\k1}{\k57}happens {\k53}{\k3}And {\k12}there {\k1}{\k16}was
+Dialogue: 0,0:03:19.71,0:03:22.12,Kara,,0,0,0,,{\k41}light {\k46}{\k47}Immediate {\k1}{\k71}execution
+Dialogue: 0,0:03:22.22,0:03:24.58,Kara,,0,0,0,,{\k14}No {\k1}{\k71}compilation {\k1}{\k48}errors {\k45}{\k22}No
+Dialogue: 0,0:03:24.25,0:03:26.99,Kara,,0,0,0,,{\k44}runtime {\k1}{\k75}exceptions {\k45}{\k15}No {\k1}{\k59}debugging
+Dialogue: 0,0:03:26.65,0:03:29.35,Kara,,0,0,0,,{\k61}required {\k46}{\k7}The {\k1}{\k48}command {\k12}{\k60}executes
+Dialogue: 0,0:03:29.01,0:03:31.73,Kara,,0,0,0,,{\k75}flawlessly {\k45}{\k19}Light {\k1}{\k96}instantiates
+Dialogue: 0,0:03:31.84,0:03:33.75,Kara,,0,0,0,,{\k42}PAUSE {\k33}{\k18}Let's {\k1}{\k22}talk {\k1}{\k23}about {\k1}{\k15}what
+Dialogue: 0,0:03:33.42,0:03:35.79,Kara,,0,0,0,,{\k22}just {\k1}{\k43}happened {\k45}{\k23}God {\k1}{\k46}created {\k1}{\k19}through
+Dialogue: 0,0:03:35.46,0:03:37.84,Kara,,0,0,0,,{\k68}language {\k50}{\k16}Through {\k1}{\k68}information
+Dialogue: 0,0:03:37.96,0:03:39.88,Kara,,0,0,0,,{\k11}Through {\k1}{\k8}the {\k1}{\k41}spoken {\k1}{\k31}Word {\k46}{\k16}This
+Dialogue: 0,0:03:39.54,0:03:41.62,Kara,,0,0,0,,{\k11}is {\k1}{\k68}profound {\k45}{\k23}This {\k1}{\k11}is {\k1}{\k11}the
+Dialogue: 0,0:03:41.28,0:03:43.07,Kara,,0,0,0,,{\k78}foundation {\k1}{\k11}of {\k1}{\k53}everything
+Dialogue: 0,0:03:43.17,0:03:45.68,Kara,,0,0,0,,{\k124}John 1:1 {\k1}{\k18}will {\k1}{\k30}later {\k1}{\k41}say
+Dialogue: 0,0:03:45.85,0:03:47.23,Kara,,0,0,0,,{\k9}In {\k1}{\k8}the {\k1}{\k50}beginning {\k1}{\k18}was {\k1}{\k12}the
+Dialogue: 0,0:03:46.90,0:03:48.79,Kara,,0,0,0,,{\k42}Word {\k34}{\k11}and {\k1}{\k11}the {\k1}{\k37}Word {\k1}{\k16}was
+Dialogue: 0,0:03:48.46,0:03:50.37,Kara,,0,0,0,,{\k15}with {\k1}{\k42}God {\k42}{\k7}and {\k1}{\k11}the {\k1}{\k35}Word
+Dialogue: 0,0:03:50.03,0:03:52.18,Kara,,0,0,0,,{\k16}was {\k1}{\k42}God {\k54}{\k8}The {\k1}{\k29}Greek {\k1}{\k26}word
+Dialogue: 0,0:03:51.84,0:03:54.32,Kara,,0,0,0,,{\k30}for {\k3}{\k42}Word {\k3}{\k16}is {\k1}{\k65}Logos {\k45}{\k8}It
+Dialogue: 0,0:03:53.99,0:03:56.43,Kara,,0,0,0,,{\k20}means {\k1}{\k35}word {\k3}{\k45}yes {\k46}{\k9}But {\k1}{\k48}also
+Dialogue: 0,0:03:56.54,0:03:59.00,Kara,,0,0,0,,{\k50}logic {\k27}{\k56}reason {\k25}{\k53}pattern
+Dialogue: 0,0:03:58.95,0:04:01.51,Kara,,0,0,0,,{\k78}information {\k23}{\k60}algorithm {\k45}{\k7}In {\k1}{\k8}the
+Dialogue: 0,0:04:01.18,0:04:03.47,Kara,,0,0,0,,{\k45}beginning {\k1}{\k16}was {\k1}{\k11}the {\k1}{\k65}Algorithm {\k45}{\k8}In
+Dialogue: 0,0:04:03.13,0:04:04.88,Kara,,0,0,0,,{\k8}the {\k1}{\k48}beginning {\k11}{\k16}was {\k1}{\k9}the {\k1}{\k44}Code
+Dialogue: 0,0:04:04.98,0:04:06.23,Kara,,0,0,0,,{\k7}And {\k1}{\k8}the {\k1}{\k41}Code {\k1}{\k15}was {\k1}{\k14}with
+Dialogue: 0,0:04:05.89,0:04:07.94,Kara,,0,0,0,,{\k7}the {\k1}{\k62}Programmer {\k45}{\k7}And {\k1}{\k8}the {\k1}{\k37}Code
+Dialogue: 0,0:04:07.60,0:04:09.94,Kara,,0,0,0,,{\k15}was {\k1}{\k10}the {\k1}{\k64}Programmer {\k45}{\k28}God {\k1}{\k33}doesn't
+Dialogue: 0,0:04:09.60,0:04:12.11,Kara,,0,0,0,,{\k43}create {\k11}{\k19}through {\k1}{\k58}physical {\k1}{\k81}manipulation
+Dialogue: 0,0:04:12.21,0:04:14.89,Kara,,0,0,0,,{\k23}God {\k1}{\k53}creates {\k1}{\k20}through {\k1}{\k72}information {\k49}{\k12}Through
+Dialogue: 0,0:04:14.56,0:04:17.18,Kara,,0,0,0,,{\k49}structured {\k1}{\k35}data {\k49}{\k16}Through {\k1}{\k75}executable
+Dialogue: 0,0:04:16.84,0:04:18.99,Kara,,0,0,0,,{\k79}instructions {\k45}{\k31}This {\k1}{\k11}is {\k1}{\k11}the
+Dialogue: 0,0:04:18.65,0:04:20.91,Kara,,0,0,0,,{\k62}thesis {\k1}{\k22}of {\k16}{\k26}all {\k1}{\k62}reality
+Dialogue: 0,0:04:21.00,0:04:23.74,Kara,,0,0,0,,{\k76}Information {\k1}{\k60}precedes {\k1}{\k49}matter {\k46}{\k5}The
+Dialogue: 0,0:04:23.40,0:04:25.44,Kara,,0,0,0,,{\k64}physicist {\k1}{\k29}John {\k1}{\k34}Wheeler {\k1}{\k23}said {\k1}{\k14}it
+Dialogue: 0,0:04:25.58,0:04:27.71,Kara,,0,0,0,,{\k11}It {\k1}{\k19}from {\k1}{\k44}bit {\k46}{\k27}Meaning {\k1}{\k27}comes
+Dialogue: 0,0:04:27.37,0:04:29.75,Kara,,0,0,0,,{\k33}before {\k1}{\k60}material {\k45}{\k33}Pattern {\k1}{\k30}comes
+Dialogue: 0,0:04:29.41,0:04:31.92,Kara,,0,0,0,,{\k38}before {\k1}{\k54}particle {\k46}{\k7}The {\k1}{\k38}code {\k1}{\k29}comes
+Dialogue: 0,0:04:31.58,0:04:34.22,Kara,,0,0,0,,{\k35}before {\k1}{\k8}the {\k1}{\k73}compilation {\k45}{\k25}God {\k1}{\k38}spoke
+Dialogue: 0,0:04:33.88,0:04:36.25,Kara,,0,0,0,,{\k7}the {\k1}{\k60}universe {\k1}{\k26}into {\k1}{\k69}existence {\k1}{\k35}because
+Dialogue: 0,0:04:35.92,0:04:37.88,Kara,,0,0,0,,{\k69}speaking {\k16}{\k12}is {\k1}{\k62}encoding
+Dialogue: 0,0:04:37.98,0:04:39.92,Kara,,0,0,0,,{\k49}Language {\k14}{\k11}is {\k1}{\k26}data {\k1}{\k57}structure
+Dialogue: 0,0:04:40.02,0:04:42.26,Kara,,0,0,0,,{\k37}Commands {\k1}{\k12}are {\k1}{\k76}executable {\k45}{\k7}And {\k1}{\k8}the
+Dialogue: 0,0:04:41.92,0:04:44.08,Kara,,0,0,0,,{\k30}first {\k1}{\k48}command {\k61}{\k3}Let {\k8}{\k15}there {\k1}{\k14}be
+Dialogue: 0,0:04:43.74,0:04:45.99,Kara,,0,0,0,,{\k39}light {\k46}{\k28}Not {\k30}{\k16}let {\k1}{\k15}there {\k1}{\k12}be
+Dialogue: 0,0:04:45.65,0:04:47.96,Kara,,0,0,0,,{\k46}matter {\k46}{\k28}Not {\k27}{\k14}let {\k1}{\k14}there {\k1}{\k18}be
+Dialogue: 0,0:04:47.62,0:04:50.09,Kara,,0,0,0,,{\k57}atoms {\k48}{\k33}Light {\k45}{\k30}Why
+Dialogue: 0,0:04:50.21,0:04:52.19,Kara,,0,0,0,,{\k30}Because {\k1}{\k37}light {\k14}{\k12}is {\k1}{\k68}information
+Dialogue: 0,0:04:52.29,0:04:54.96,Kara,,0,0,0,,{\k33}Light {\k11}{\k15}is {\k1}{\k103}electromagnetic {\k1}{\k68}radiation
+Dialogue: 0,0:04:54.92,0:04:56.66,Kara,,0,0,0,,{\k10}the {\k1}{\k43}carrier {\k1}{\k26}wave {\k1}{\k12}of {\k1}{\k42}data
+Dialogue: 0,0:04:56.75,0:04:59.05,Kara,,0,0,0,,{\k31}Light {\k1}{\k9}is {\k1}{\k20}how {\k1}{\k65}information {\k1}{\k62}propagates
+Dialogue: 0,0:04:58.71,0:05:01.45,Kara,,0,0,0,,{\k16}through {\k1}{\k65}space {\k46}{\k24}Before {\k1}{\k42}matter {\k30}{\k12}there
+Dialogue: 0,0:05:01.12,0:05:03.64,Kara,,0,0,0,,{\k22}must {\k1}{\k11}be {\k1}{\k38}light {\k46}{\k27}Before {\k1}{\k69}particles
+Dialogue: 0,0:05:03.52,0:05:05.68,Kara,,0,0,0,,{\k12}there {\k1}{\k22}must {\k1}{\k11}be {\k1}{\k54}waves {\k45}{\k33}Before
+Dialogue: 0,0:05:05.34,0:05:07.31,Kara,,0,0,0,,{\k73}objects {\k28}{\k12}there {\k1}{\k25}must {\k1}{\k11}be {\k1}{\k8}the
+Dialogue: 0,0:05:06.97,0:05:09.25,Kara,,0,0,0,,{\k53}medium {\k10}{\k23}through {\k1}{\k23}which {\k14}{\k56}objects {\k1}{\k12}can
+Dialogue: 0,0:05:08.92,0:05:11.48,Kara,,0,0,0,,{\k13}be {\k1}{\k64}observed {\k46}{\k7}The {\k1}{\k31}first {\k1}{\k56}photon
+Dialogue: 0,0:05:11.21,0:05:13.02,Kara,,0,0,0,,{\k11}is {\k1}{\k9}the {\k1}{\k38}first {\k1}{\k30}bit {\k46}{\k7}The
+Dialogue: 0,0:05:12.68,0:05:15.34,Kara,,0,0,0,,{\k38}first {\k1}{\k52}quantum {\k1}{\k11}of {\k1}{\k79}information {\k12}{\k35}entering
+Dialogue: 0,0:05:15.00,0:05:17.16,Kara,,0,0,0,,{\k7}the {\k1}{\k46}void {\k46}{\k18}And {\k1}{\k61}everything
+Dialogue: 0,0:05:17.12,0:05:19.59,Kara,,0,0,0,,{\k54}everything {\k45}{\k19}that {\k1}{\k43}follows {\k1}{\k14}is {\k1}{\k33}built
+Dialogue: 0,0:05:19.25,0:05:21.24,Kara,,0,0,0,,{\k11}on {\k1}{\k19}that {\k1}{\k38}first {\k1}{\k33}bit {\k46}{\k12}And
+Dialogue: 0,0:05:20.90,0:05:22.93,Kara,,0,0,0,,{\k35}God {\k1}{\k27}saw {\k1}{\k12}the {\k1}{\k39}light {\k38}{\k12}that
+Dialogue: 0,0:05:22.60,0:05:24.58,Kara,,0,0,0,,{\k8}it {\k1}{\k19}was {\k1}{\k37}good {\k44}{\k14}and {\k1}{\k38}God
+Dialogue: 0,0:05:24.24,0:05:26.00,Kara,,0,0,0,,{\k54}divided {\k1}{\k12}the {\k1}{\k42}light {\k1}{\k19}from {\k1}{\k8}the
+Dialogue: 0,0:05:25.67,0:05:28.08,Kara,,0,0,0,,{\k69}darkness {\k45}{\k18}God {\k1}{\k73}executes
+Dialogue: 0,0:05:28.18,0:05:30.75,Kara,,0,0,0,,{\k18}Then {\k1}{\k25}God {\k1}{\k86}evaluates {\k53}{\k7}And {\k31}God
+Dialogue: 0,0:05:30.41,0:05:32.15,Kara,,0,0,0,,{\k26}saw {\k1}{\k14}the {\k1}{\k35}light {\k39}{\k13}that {\k1}{\k7}it
+Dialogue: 0,0:05:31.81,0:05:33.84,Kara,,0,0,0,,{\k18}was {\k1}{\k39}good {\k48}{\k19}This {\k1}{\k12}is {\k1}{\k29}code
+Dialogue: 0,0:05:33.51,0:05:36.10,Kara,,0,0,0,,{\k42}review {\k46}{\k14}This {\k1}{\k11}is {\k1}{\k46}testing {\k46}{\k16}This
+Dialogue: 0,0:05:35.76,0:05:38.19,Kara,,0,0,0,,{\k11}is {\k1}{\k68}validation {\k45}{\k23}God {\k1}{\k31}doesn't {\k1}{\k26}just
+Dialogue: 0,0:05:37.86,0:05:40.27,Kara,,0,0,0,,{\k46}create {\k19}{\k10}and {\k1}{\k28}walk {\k1}{\k37}away {\k45}{\k19}God
+Dialogue: 0,0:05:39.94,0:05:42.54,Kara,,0,0,0,,{\k48}inspects {\k1}{\k11}the {\k1}{\k53}output {\k45}{\k56}Verifies {\k1}{\k9}the
+Dialogue: 0,0:05:42.20,0:05:44.59,Kara,,0,0,0,,{\k50}result {\k45}{\k64}Confirms {\k27}{\k18}this
+Dialogue: 0,0:05:44.25,0:05:46.90,Kara,,0,0,0,,{\k49}works {\k45}{\k14}This {\k1}{\k10}is {\k1}{\k52}correct {\k45}{\k13}This
+Dialogue: 0,0:05:46.56,0:05:49.12,Kara,,0,0,0,,{\k14}is {\k1}{\k33}good {\k45}{\k11}And {\k1}{\k31}then {\k30}{\k54}critically
+Dialogue: 0,0:05:49.06,0:05:51.81,Kara,,0,0,0,,{\k20}God {\k1}{\k68}separates {\k53}{\k7}And {\k37}God {\k1}{\k52}divided
+Dialogue: 0,0:05:51.47,0:05:53.44,Kara,,0,0,0,,{\k11}the {\k1}{\k39}light {\k12}{\k18}from {\k1}{\k8}the {\k1}{\k69}darkness
+Dialogue: 0,0:05:53.66,0:05:55.57,Kara,,0,0,0,,{\k46}Division {\k46}{\k64}Separation
+Dialogue: 0,0:05:55.67,0:05:58.02,Kara,,0,0,0,,{\k90}Categorization {\k45}{\k33}This {\k10}{\k12}is {\k1}{\k10}the
+Dialogue: 0,0:05:57.68,0:06:00.30,Kara,,0,0,0,,{\k73}fundamental {\k1}{\k62}operation {\k1}{\k10}of {\k1}{\k77}computation
+Dialogue: 0,0:06:00.41,0:06:02.12,Kara,,0,0,0,,{\k7}The {\k1}{\k45}basis {\k1}{\k9}of {\k1}{\k15}all {\k1}{\k54}logic
+Dialogue: 0,0:06:02.23,0:06:04.32,Kara,,0,0,0,,{\k48}Binary {\k45}{\k24}One {\k1}{\k8}and {\k1}{\k46}zero
+Dialogue: 0,0:06:04.42,0:06:06.67,Kara,,0,0,0,,{\k26}True {\k1}{\k10}and {\k1}{\k57}false {\k45}{\k34}Light {\k8}{\k8}and
+Dialogue: 0,0:06:06.33,0:06:08.59,Kara,,0,0,0,,{\k72}darkness {\k45}{\k12}You {\k1}{\k37}cannot {\k1}{\k22}have
+Dialogue: 0,0:06:08.25,0:06:10.83,Kara,,0,0,0,,{\k65}information {\k1}{\k38}without {\k1}{\k60}distinction {\k45}{\k12}You
+Dialogue: 0,0:06:10.49,0:06:12.91,Kara,,0,0,0,,{\k37}cannot {\k1}{\k20}have {\k1}{\k37}meaning {\k1}{\k38}without {\k1}{\k69}boundaries
+Dialogue: 0,0:06:13.00,0:06:14.31,Kara,,0,0,0,,{\k11}You {\k1}{\k34}cannot {\k1}{\k15}have {\k1}{\k7}a {\k1}{\k23}bit
+Dialogue: 0,0:06:13.97,0:06:16.28,Kara,,0,0,0,,{\k38}without {\k1}{\k20}two {\k1}{\k61}states {\k45}{\k16}Light {\k1}{\k11}is
+Dialogue: 0,0:06:15.94,0:06:18.33,Kara,,0,0,0,,{\k31}1 {\k45}{\k50}Darkness {\k15}{\k14}is {\k1}{\k48}0
+Dialogue: 0,0:06:18.43,0:06:20.65,Kara,,0,0,0,,{\k10}And {\k1}{\k12}in {\k1}{\k68}separating {\k1}{\k22}them {\k39}{\k33}God
+Dialogue: 0,0:06:20.31,0:06:22.20,Kara,,0,0,0,,{\k39}creates {\k1}{\k9}the {\k1}{\k50}first {\k1}{\k33}bit {\k7}{\k11}of
+Dialogue: 0,0:06:21.86,0:06:24.58,Kara,,0,0,0,,{\k73}information {\k45}{\k5}The {\k1}{\k60}universe {\k12}{\k14}is {\k1}{\k25}no
+Dialogue: 0,0:06:24.24,0:06:26.63,Kara,,0,0,0,,{\k45}longer {\k1}{\k69}undefined {\k45}{\k7}It {\k1}{\k12}is {\k1}{\k22}now
+Dialogue: 0,0:06:26.29,0:06:28.67,Kara,,0,0,0,,{\k60}binary {\k45}{\k6}It {\k1}{\k12}can {\k1}{\k25}now {\k1}{\k52}encode
+Dialogue: 0,0:06:28.77,0:06:30.64,Kara,,0,0,0,,{\k7}It {\k1}{\k14}can {\k1}{\k19}now {\k1}{\k52}compute {\k45}{\k12}And
+Dialogue: 0,0:06:30.30,0:06:32.28,Kara,,0,0,0,,{\k50}God {\k1}{\k27}called {\k1}{\k8}the {\k1}{\k33}light {\k1}{\k39}Day
+Dialogue: 0,0:06:32.27,0:06:33.93,Kara,,0,0,0,,{\k11}and {\k1}{\k12}the {\k1}{\k57}darkness {\k1}{\k11}he {\k1}{\k34}called
+Dialogue: 0,0:06:33.59,0:06:35.86,Kara,,0,0,0,,{\k44}Night {\k45}{\k9}And {\k1}{\k8}the {\k1}{\k56}evening {\k19}{\k8}and
+Dialogue: 0,0:06:35.52,0:06:36.94,Kara,,0,0,0,,{\k7}the {\k1}{\k41}morning {\k1}{\k10}were {\k1}{\k8}the {\k1}{\k37}first
+Dialogue: 0,0:06:36.61,0:06:38.94,Kara,,0,0,0,,{\k30}day {\k45}{\k35}Naming {\k45}{\k43}Variable
+Dialogue: 0,0:06:38.60,0:06:41.07,Kara,,0,0,0,,{\k75}declaration {\k45}{\k18}let {\k1}{\k26}Day {\k9}{\k38}=
+Dialogue: 0,0:06:40.74,0:06:42.92,Kara,,0,0,0,,{\k35}light {\k45}{\k18}let {\k1}{\k33}Night {\k16}{\k35}=
+Dialogue: 0,0:06:42.58,0:06:45.05,Kara,,0,0,0,,{\k64}darkness {\k45}{\k22}God {\k1}{\k27}doesn't {\k1}{\k18}just {\k1}{\k33}create
+Dialogue: 0,0:06:44.72,0:06:46.71,Kara,,0,0,0,,{\k52}things {\k44}{\k18}God {\k1}{\k29}names {\k1}{\k20}them
+Dialogue: 0,0:06:46.81,0:06:49.32,Kara,,0,0,0,,{\k43}Assigns {\k1}{\k91}identifiers {\k45}{\k35}Creates
+Dialogue: 0,0:06:48.98,0:06:51.21,Kara,,0,0,0,,{\k65}references {\k46}{\k31}Because {\k1}{\k11}to {\k1}{\k31}name
+Dialogue: 0,0:06:50.87,0:06:52.40,Kara,,0,0,0,,{\k53}something {\k14}{\k11}is {\k1}{\k9}to {\k1}{\k19}give {\k1}{\k8}it
+Dialogue: 0,0:06:52.07,0:06:54.21,Kara,,0,0,0,,{\k37}meaning {\k46}{\k7}To {\k1}{\k33}create {\k1}{\k4}a {\k1}{\k49}handle
+Dialogue: 0,0:06:54.31,0:06:56.14,Kara,,0,0,0,,{\k7}To {\k1}{\k19}make {\k1}{\k8}it {\k1}{\k53}callable {\k45}{\k12}And
+Dialogue: 0,0:06:55.80,0:06:58.15,Kara,,0,0,0,,{\k30}time {\k1}{\k43}itself {\k1}{\k50}begins {\k1}{\k14}to {\k1}{\k57}increment
+Dialogue: 0,0:06:58.15,0:06:59.97,Kara,,0,0,0,,{\k10}the {\k1}{\k53}evening {\k20}{\k8}and {\k1}{\k7}the {\k1}{\k45}morning
+Dialogue: 0,0:06:59.64,0:07:01.67,Kara,,0,0,0,,{\k11}were {\k1}{\k8}the {\k1}{\k48}first {\k1}{\k37}day {\k46}{\k15}Day
+Dialogue: 0,0:07:01.33,0:07:03.63,Kara,,0,0,0,,{\k34}1 {\k27}{\k54}complete {\k45}{\k34}Commit
+Dialogue: 0,0:07:03.29,0:07:05.62,Kara,,0,0,0,,{\k61}message {\k44}{\k48}Initial {\k1}{\k45}commit
+Dialogue: 0,0:07:05.68,0:07:08.10,Kara,,0,0,0,,{\k50}created {\k1}{\k31}light {\k42}{\k62}separated {\k1}{\k18}from
+Dialogue: 0,0:07:07.76,0:07:10.41,Kara,,0,0,0,,{\k72}darkness {\k58}{\k4}The {\k1}{\k58}universe {\k7}{\k29}has
+Dialogue: 0,0:07:10.07,0:07:12.56,Kara,,0,0,0,,{\k148}v0.1 {\k55}{\k11}And
+Dialogue: 0,0:07:12.22,0:07:14.32,Kara,,0,0,0,,{\k38}God {\k1}{\k50}said {\k41}{\k12}Let {\k1}{\k14}there {\k1}{\k16}be
+Dialogue: 0,0:07:13.99,0:07:15.74,Kara,,0,0,0,,{\k6}a {\k1}{\k65}firmament {\k1}{\k11}in {\k1}{\k7}the {\k1}{\k46}midst
+Dialogue: 0,0:07:15.40,0:07:17.20,Kara,,0,0,0,,{\k8}of {\k1}{\k9}the {\k1}{\k65}waters {\k26}{\k18}and {\k1}{\k15}let
+Dialogue: 0,0:07:16.87,0:07:18.81,Kara,,0,0,0,,{\k11}it {\k1}{\k58}divide {\k1}{\k12}the {\k1}{\k54}waters {\k1}{\k18}from
+Dialogue: 0,0:07:18.47,0:07:20.82,Kara,,0,0,0,,{\k8}the {\k1}{\k62}waters {\k45}{\k12}And {\k1}{\k44}God {\k1}{\k24}made
+Dialogue: 0,0:07:20.48,0:07:22.61,Kara,,0,0,0,,{\k8}the {\k1}{\k67}firmament {\k33}{\k8}and {\k1}{\k50}divided {\k1}{\k8}the
+Dialogue: 0,0:07:22.27,0:07:23.85,Kara,,0,0,0,,{\k52}waters {\k1}{\k16}which {\k1}{\k20}were {\k1}{\k19}under {\k1}{\k10}the
+Dialogue: 0,0:07:23.51,0:07:25.44,Kara,,0,0,0,,{\k64}firmament {\k1}{\k15}from {\k1}{\k8}the {\k1}{\k48}waters {\k1}{\k18}which
+Dialogue: 0,0:07:25.10,0:07:27.27,Kara,,0,0,0,,{\k15}were {\k1}{\k35}above {\k1}{\k8}the {\k1}{\k61}firmament {\k48}{\k11}and
+Dialogue: 0,0:07:26.94,0:07:29.00,Kara,,0,0,0,,{\k9}it {\k1}{\k16}was {\k1}{\k37}so {\k45}{\k12}And {\k1}{\k48}God
+Dialogue: 0,0:07:28.66,0:07:30.79,Kara,,0,0,0,,{\k23}called {\k1}{\k8}the {\k1}{\k52}firmament {\k1}{\k35}Heaven {\k45}{\k11}Day
+Dialogue: 0,0:07:30.45,0:07:33.05,Kara,,0,0,0,,{\k28}2 {\k45}{\k26}God {\k1}{\k53}continues {\k1}{\k69}architecting
+Dialogue: 0,0:07:33.29,0:07:35.61,Kara,,0,0,0,,{\k15}there {\k1}{\k15}be {\k1}{\k5}a {\k1}{\k60}firmament {\k46}{\k52}Raqia
+Dialogue: 0,0:07:35.28,0:07:37.91,Kara,,0,0,0,,{\k14}in {\k1}{\k60}Hebrew {\k42}{\k7}an {\k1}{\k78}expanse {\k20}{\k6}a
+Dialogue: 0,0:07:37.57,0:07:40.14,Kara,,0,0,0,,{\k62}stretched-out {\k1}{\k68}surface {\k45}{\k5}The {\k1}{\k38}sky
+Dialogue: 0,0:07:40.25,0:07:42.94,Kara,,0,0,0,,{\k8}The {\k1}{\k67}atmosphere {\k46}{\k5}The {\k1}{\k64}separation {\k1}{\k39}between
+Dialogue: 0,0:07:42.74,0:07:45.08,Kara,,0,0,0,,{\k27}earth {\k14}{\k9}and {\k1}{\k71}space {\k46}{\k8}But {\k1}{\k22}think
+Dialogue: 0,0:07:44.75,0:07:46.33,Kara,,0,0,0,,{\k23}about {\k1}{\k19}what {\k1}{\k31}God {\k1}{\k14}is {\k1}{\k31}doing
+Dialogue: 0,0:07:46.00,0:07:48.00,Kara,,0,0,0,,{\k34}here {\k33}{\k44}creating {\k1}{\k54}layers
+Dialogue: 0,0:07:48.20,0:07:49.80,Kara,,0,0,0,,{\k31}Divide {\k8}{\k10}the {\k1}{\k48}waters {\k1}{\k16}from {\k1}{\k8}the
+Dialogue: 0,0:07:49.46,0:07:51.62,Kara,,0,0,0,,{\k65}waters {\k29}{\k39}waters {\k1}{\k46}above
+Dialogue: 0,0:07:51.55,0:07:54.01,Kara,,0,0,0,,{\k42}waters {\k1}{\k53}below {\k33}{\k11}and {\k1}{\k10}the {\k1}{\k58}firmament
+Dialogue: 0,0:07:53.74,0:07:56.23,Kara,,0,0,0,,{\k45}between {\k1}{\k19}them {\k45}{\k25}This {\k1}{\k11}is {\k1}{\k65}separation
+Dialogue: 0,0:07:55.89,0:07:58.26,Kara,,0,0,0,,{\k8}of {\k1}{\k77}concerns {\k45}{\k23}This {\k1}{\k14}is {\k1}{\k31}layered
+Dialogue: 0,0:07:57.93,0:08:00.15,Kara,,0,0,0,,{\k76}architecture {\k45}{\k11}You {\k1}{\k23}have {\k1}{\k30}three
+Dialogue: 0,0:07:59.81,0:08:02.04,Kara,,0,0,0,,{\k53}layers {\k53}{\k25}Waters {\k8}{\k49}above
+Dialogue: 0,0:08:01.89,0:08:04.19,Kara,,0,0,0,,{\k34}cloud {\k1}{\k45}layer {\k20}{\k25}upper {\k1}{\k68}atmosphere
+Dialogue: 0,0:08:04.45,0:08:06.93,Kara,,0,0,0,,{\k37}Firmament {\k34}{\k10}the {\k1}{\k49}breathable {\k1}{\k45}zone {\k27}{\k10}the
+Dialogue: 0,0:08:06.60,0:08:09.31,Kara,,0,0,0,,{\k60}interface {\k1}{\k39}layer {\k53}{\k27}Waters {\k8}{\k48}below
+Dialogue: 0,0:08:09.35,0:08:12.08,Kara,,0,0,0,,{\k58}oceans {\k23}{\k57}seas {\k29}{\k33}liquid {\k1}{\k37}water
+Dialogue: 0,0:08:11.75,0:08:13.85,Kara,,0,0,0,,{\k16}on {\k1}{\k38}earth {\k45}{\k19}Each {\k1}{\k34}layer {\k1}{\k19}has
+Dialogue: 0,0:08:13.51,0:08:15.87,Kara,,0,0,0,,{\k4}a {\k1}{\k44}distinct {\k1}{\k46}function {\k45}{\k19}Each {\k1}{\k39}layer
+Dialogue: 0,0:08:15.60,0:08:17.43,Kara,,0,0,0,,{\k11}is {\k1}{\k56}separated {\k1}{\k16}from {\k1}{\k11}the {\k1}{\k49}others
+Dialogue: 0,0:08:17.53,0:08:19.38,Kara,,0,0,0,,{\k19}Each {\k1}{\k34}layer {\k1}{\k14}can {\k1}{\k11}be {\k1}{\k67}modified
+Dialogue: 0,0:08:19.04,0:08:21.44,Kara,,0,0,0,,{\k45}without {\k1}{\k35}breaking {\k1}{\k11}the {\k1}{\k49}others {\k45}{\k16}This
+Dialogue: 0,0:08:21.11,0:08:22.65,Kara,,0,0,0,,{\k11}is {\k1}{\k14}how {\k1}{\k16}you {\k1}{\k27}build {\k1}{\k46}scalable
+Dialogue: 0,0:08:22.31,0:08:24.89,Kara,,0,0,0,,{\k62}systems {\k46}{\k22}This {\k1}{\k11}is {\k1}{\k15}the {\k7}{\k57}OSI
+Dialogue: 0,0:08:24.56,0:08:27.00,Kara,,0,0,0,,{\k41}model {\k1}{\k8}in {\k1}{\k75}Genesis {\k45}{\k25}God {\k1}{\k12}is
+Dialogue: 0,0:08:26.66,0:08:29.06,Kara,,0,0,0,,{\k33}building {\k1}{\k8}the {\k1}{\k65}planetary {\k1}{\k49}operating {\k1}{\k45}system
+Dialogue: 0,0:08:29.16,0:08:30.79,Kara,,0,0,0,,{\k8}And {\k1}{\k22}like {\k12}{\k14}any {\k1}{\k16}good {\k1}{\k52}OS
+Dialogue: 0,0:08:30.67,0:08:32.79,Kara,,0,0,0,,{\k5}it {\k1}{\k19}has {\k1}{\k56}layers {\k45}{\k11}And {\k1}{\k37}God
+Dialogue: 0,0:08:32.45,0:08:34.58,Kara,,0,0,0,,{\k33}names {\k1}{\k19}this {\k1}{\k33}middle {\k1}{\k39}layer {\k11}{\k39}Heaven
+Dialogue: 0,0:08:34.69,0:08:36.20,Kara,,0,0,0,,{\k20}Not {\k1}{\k8}the {\k1}{\k37}heaven {\k1}{\k18}where {\k1}{\k27}God
+Dialogue: 0,0:08:35.86,0:08:38.03,Kara,,0,0,0,,{\k65}dwells {\k28}{\k16}that {\k1}{\k26}comes {\k1}{\k44}later
+Dialogue: 0,0:08:38.13,0:08:40.76,Kara,,0,0,0,,{\k29}This {\k1}{\k49}heaven {\k7}{\k16}is {\k1}{\k69}shamayim {\k46}{\k10}the
+Dialogue: 0,0:08:40.43,0:08:43.09,Kara,,0,0,0,,{\k73}skies {\k22}{\k15}the {\k1}{\k76}atmosphere {\k31}{\k12}the
+Dialogue: 0,0:08:42.75,0:08:44.99,Kara,,0,0,0,,{\k54}breathable {\k1}{\k41}layer {\k1}{\k22}where {\k1}{\k45}life {\k8}{\k15}will
+Dialogue: 0,0:08:44.65,0:08:47.13,Kara,,0,0,0,,{\k64}exist {\k45}{\k27}This {\k1}{\k11}is {\k1}{\k11}the {\k1}{\k52}runtime
+Dialogue: 0,0:08:46.80,0:08:49.11,Kara,,0,0,0,,{\k68}environment {\k46}{\k7}The {\k1}{\k73}execution
+Dialogue: 0,0:08:48.77,0:08:50.88,Kara,,0,0,0,,{\k75}context {\k45}{\k8}The {\k1}{\k33}layer {\k1}{\k14}where
+Dialogue: 0,0:08:50.55,0:08:52.99,Kara,,0,0,0,,{\k64}processes {\k1}{\k15}will {\k1}{\k30}run {\k45}{\k16}Day {\k1}{\k35}2
+Dialogue: 0,0:08:52.86,0:08:55.06,Kara,,0,0,0,,{\k53}complete {\k45}{\k30}Commit {\k1}{\k56}message
+Dialogue: 0,0:08:55.14,0:08:57.62,Kara,,0,0,0,,{\k26}Added {\k1}{\k65}atmospheric {\k1}{\k37}layer {\k26}{\k57}separated
+Dialogue: 0,0:08:57.29,0:08:59.85,Kara,,0,0,0,,{\k76}concerns {\k48}{\k11}And {\k1}{\k33}God {\k1}{\k52}said
+Dialogue: 0,0:08:59.91,0:09:01.36,Kara,,0,0,0,,{\k14}Let {\k1}{\k11}the {\k1}{\k49}waters {\k1}{\k23}under {\k1}{\k8}the
+Dialogue: 0,0:09:01.02,0:09:03.33,Kara,,0,0,0,,{\k37}heaven {\k1}{\k18}be {\k1}{\k48}gathered {\k1}{\k60}together {\k1}{\k28}unto
+Dialogue: 0,0:09:03.00,0:09:04.96,Kara,,0,0,0,,{\k28}one {\k1}{\k60}place {\k30}{\k14}and {\k1}{\k16}let {\k1}{\k10}the
+Dialogue: 0,0:09:04.62,0:09:07.01,Kara,,0,0,0,,{\k37}dry {\k1}{\k37}land {\k1}{\k53}appear {\k47}{\k14}and {\k1}{\k12}it
+Dialogue: 0,0:09:06.68,0:09:09.01,Kara,,0,0,0,,{\k18}was {\k1}{\k44}so {\k46}{\k12}And {\k1}{\k48}God {\k1}{\k27}called
+Dialogue: 0,0:09:08.67,0:09:10.70,Kara,,0,0,0,,{\k8}the {\k1}{\k34}dry {\k1}{\k39}land {\k1}{\k41}Earth {\k30}{\k11}and
+Dialogue: 0,0:09:10.36,0:09:12.01,Kara,,0,0,0,,{\k9}the {\k1}{\k52}gathering {\k1}{\k46}together {\k1}{\k8}of {\k1}{\k10}the
+Dialogue: 0,0:09:11.68,0:09:14.23,Kara,,0,0,0,,{\k49}waters {\k1}{\k34}called {\k1}{\k19}he {\k1}{\k59}Seas {\k42}{\k14}and
+Dialogue: 0,0:09:13.89,0:09:15.36,Kara,,0,0,0,,{\k31}God {\k1}{\k33}saw {\k1}{\k16}that {\k1}{\k8}it {\k1}{\k18}was
+Dialogue: 0,0:09:15.02,0:09:17.68,Kara,,0,0,0,,{\k37}good {\k45}{\k15}More {\k1}{\k68}separation {\k45}{\k20}More
+Dialogue: 0,0:09:17.34,0:09:20.03,Kara,,0,0,0,,{\k97}categorization {\k45}{\k38}Waters {\k1}{\k41}gathered {\k1}{\k11}to
+Dialogue: 0,0:09:19.69,0:09:22.37,Kara,,0,0,0,,{\k23}one {\k1}{\k59}place {\k45}{\k20}Dry {\k1}{\k25}land {\k1}{\k57}appears
+Dialogue: 0,0:09:22.48,0:09:24.96,Kara,,0,0,0,,{\k16}Two {\k1}{\k50}distinct {\k1}{\k25}data {\k1}{\k53}types {\k26}{\k39}liquid
+Dialogue: 0,0:09:24.76,0:09:26.99,Kara,,0,0,0,,{\k11}and {\k1}{\k52}solid {\k45}{\k31}Ocean {\k1}{\k10}and {\k1}{\k35}earth
+Dialogue: 0,0:09:27.08,0:09:29.61,Kara,,0,0,0,,{\k52}Dynamic {\k10}{\k7}and {\k1}{\k58}static {\k45}{\k11}And {\k1}{\k33}then
+Dialogue: 0,0:09:29.72,0:09:30.74,Kara,,0,0,0,,{\k10}and {\k1}{\k19}this {\k1}{\k11}is {\k1}{\k14}where {\k1}{\k8}it
+Dialogue: 0,0:09:30.40,0:09:32.86,Kara,,0,0,0,,{\k23}gets {\k1}{\k33}really {\k1}{\k54}interesting {\k52}{\k12}And {\k1}{\k33}God
+Dialogue: 0,0:09:32.53,0:09:34.70,Kara,,0,0,0,,{\k45}said {\k39}{\k15}Let {\k1}{\k14}the {\k1}{\k34}earth {\k1}{\k31}bring
+Dialogue: 0,0:09:34.36,0:09:36.50,Kara,,0,0,0,,{\k44}forth {\k1}{\k67}grass {\k22}{\k13}the {\k1}{\k31}herb
+Dialogue: 0,0:09:36.17,0:09:38.62,Kara,,0,0,0,,{\k60}yielding {\k1}{\k56}seed {\k34}{\k10}and {\k1}{\k10}the {\k1}{\k38}fruit
+Dialogue: 0,0:09:38.29,0:09:40.57,Kara,,0,0,0,,{\k37}tree {\k1}{\k57}yielding {\k1}{\k42}fruit {\k7}{\k33}after {\k1}{\k14}his
+Dialogue: 0,0:09:40.23,0:09:42.51,Kara,,0,0,0,,{\k48}kind {\k34}{\k23}whose {\k1}{\k41}seed {\k14}{\k16}is {\k1}{\k15}in
+Dialogue: 0,0:09:42.17,0:09:44.81,Kara,,0,0,0,,{\k67}itself {\k25}{\k35}upon {\k1}{\k10}the {\k1}{\k44}earth {\k33}{\k14}and
+Dialogue: 0,0:09:44.47,0:09:46.63,Kara,,0,0,0,,{\k11}it {\k1}{\k16}was {\k1}{\k39}so {\k46}{\k65}Vegetation
+Dialogue: 0,0:09:46.74,0:09:49.43,Kara,,0,0,0,,{\k50}Plants {\k45}{\k48}Seeds {\k46}{\k9}But {\k1}{\k34}notice
+Dialogue: 0,0:09:49.09,0:09:51.34,Kara,,0,0,0,,{\k18}what {\k1}{\k39}God {\k1}{\k27}does {\k1}{\k34}here {\k42}{\k26}God
+Dialogue: 0,0:09:51.01,0:09:53.16,Kara,,0,0,0,,{\k39}creates {\k1}{\k98}self-replicating {\k1}{\k41}code
+Dialogue: 0,0:09:53.34,0:09:55.66,Kara,,0,0,0,,{\k7}The {\k31}herb {\k1}{\k48}yielding {\k1}{\k42}seed {\k45}{\k22}whose
+Dialogue: 0,0:09:55.33,0:09:57.92,Kara,,0,0,0,,{\k42}seed {\k18}{\k15}is {\k1}{\k15}in {\k1}{\k67}itself {\k48}{\k18}This
+Dialogue: 0,0:09:57.58,0:10:00.07,Kara,,0,0,0,,{\k12}is {\k1}{\k50}DNA {\k46}{\k16}This {\k1}{\k11}is {\k1}{\k73}biological
+Dialogue: 0,0:09:59.73,0:10:01.94,Kara,,0,0,0,,{\k42}code {\k45}{\k22}This {\k1}{\k12}is {\k1}{\k7}a {\k1}{\k54}program
+Dialogue: 0,0:10:01.60,0:10:03.57,Kara,,0,0,0,,{\k12}that {\k1}{\k53}contains {\k1}{\k18}its {\k14}{\k23}own {\k1}{\k38}source
+Dialogue: 0,0:10:03.23,0:10:05.78,Kara,,0,0,0,,{\k46}code {\k35}{\k14}that {\k1}{\k12}can {\k1}{\k57}compile {\k1}{\k52}copies
+Dialogue: 0,0:10:05.45,0:10:07.80,Kara,,0,0,0,,{\k8}of {\k1}{\k65}itself {\k31}{\k14}that {\k1}{\k18}can {\k1}{\k60}reproduce
+Dialogue: 0,0:10:07.46,0:10:10.08,Kara,,0,0,0,,{\k46}without {\k1}{\k50}external {\k1}{\k60}intervention {\k45}{\k23}God
+Dialogue: 0,0:10:09.74,0:10:12.03,Kara,,0,0,0,,{\k34}creates {\k1}{\k5}a {\k1}{\k58}factory {\k1}{\k42}pattern {\k45}{\k5}A
+Dialogue: 0,0:10:11.70,0:10:13.73,Kara,,0,0,0,,{\k46}template {\k45}{\k7}A {\k1}{\k41}class {\k1}{\k12}that {\k1}{\k14}can
+Dialogue: 0,0:10:13.40,0:10:15.73,Kara,,0,0,0,,{\k79}instantiate {\k1}{\k50}copies {\k1}{\k8}of {\k1}{\k57}itself
+Dialogue: 0,0:10:15.84,0:10:17.70,Kara,,0,0,0,,{\k15}This {\k1}{\k11}is {\k1}{\k11}the {\k1}{\k41}first {\k8}{\k61}algorithm
+Dialogue: 0,0:10:17.37,0:10:19.96,Kara,,0,0,0,,{\k23}that {\k1}{\k30}runs {\k1}{\k79}indefinitely {\k46}{\k5}The {\k1}{\k37}first
+Dialogue: 0,0:10:19.62,0:10:22.09,Kara,,0,0,0,,{\k50}autonomous {\k1}{\k72}process {\k46}{\k7}The {\k1}{\k34}first
+Dialogue: 0,0:10:21.75,0:10:23.22,Kara,,0,0,0,,{\k27}code {\k1}{\k16}that {\k1}{\k35}doesn't {\k1}{\k19}need {\k1}{\k8}the
+Dialogue: 0,0:10:22.88,0:10:25.34,Kara,,0,0,0,,{\k62}Programmer {\k1}{\k12}to {\k1}{\k67}manually {\k1}{\k50}execute {\k1}{\k14}it
+Dialogue: 0,0:10:25.18,0:10:27.40,Kara,,0,0,0,,{\k20}every {\k1}{\k41}time {\k45}{\k27}God {\k1}{\k42}creates {\k1}{\k8}the
+Dialogue: 0,0:10:27.07,0:10:29.58,Kara,,0,0,0,,{\k58}initial {\k1}{\k75}instances {\k20}{\k61}grass
+Dialogue: 0,0:10:29.48,0:10:32.17,Kara,,0,0,0,,{\k57}herbs {\k22}{\k29}fruit {\k1}{\k52}trees {\k46}{\k8}But {\k1}{\k18}from
+Dialogue: 0,0:10:31.84,0:10:34.03,Kara,,0,0,0,,{\k18}that {\k1}{\k27}point {\k1}{\k27}on {\k42}{\k9}they {\k1}{\k57}replicate
+Dialogue: 0,0:10:33.70,0:10:35.92,Kara,,0,0,0,,{\k76}themselves {\k46}{\k7}The {\k1}{\k35}code {\k9}{\k12}is
+Dialogue: 0,0:10:35.59,0:10:37.81,Kara,,0,0,0,,{\k84}self-sustaining {\k45}{\k15}And {\k1}{\k33}notice {\k1}{\k8}the
+Dialogue: 0,0:10:37.47,0:10:39.75,Kara,,0,0,0,,{\k54}phrase {\k43}{\k31}after {\k1}{\k14}his {\k1}{\k48}kind
+Dialogue: 0,0:10:39.88,0:10:42.28,Kara,,0,0,0,,{\k18}Each {\k1}{\k57}species {\k1}{\k76}reproduces {\k1}{\k34}within {\k1}{\k15}its
+Dialogue: 0,0:10:41.94,0:10:44.13,Kara,,0,0,0,,{\k39}type {\k45}{\k18}Each {\k1}{\k37}class {\k1}{\k42}creates
+Dialogue: 0,0:10:43.79,0:10:46.17,Kara,,0,0,0,,{\k61}instances {\k1}{\k8}of {\k1}{\k59}itself {\k33}{\k19}not {\k1}{\k19}other
+Dialogue: 0,0:10:45.83,0:10:48.03,Kara,,0,0,0,,{\k68}classes {\k45}{\k33}Grass {\k1}{\k38}creates
+Dialogue: 0,0:10:47.69,0:10:49.93,Kara,,0,0,0,,{\k58}Grass {\k45}{\k15}Oak {\k1}{\k39}creates {\k1}{\k28}Oak
+Dialogue: 0,0:10:50.03,0:10:52.12,Kara,,0,0,0,,{\k19}Type {\k1}{\k50}safety {\k45}{\k58}Inheritance
+Dialogue: 0,0:10:51.78,0:10:54.18,Kara,,0,0,0,,{\k83}constraints {\k45}{\k26}God {\k1}{\k12}is {\k1}{\k37}building
+Dialogue: 0,0:10:53.85,0:10:56.21,Kara,,0,0,0,,{\k100}polymorphism {\k10}{\k20}into {\k1}{\k69}biology
+Dialogue: 0,0:10:56.30,0:10:58.26,Kara,,0,0,0,,{\k30}Different {\k1}{\k73}species {\k22}{\k34}same
+Dialogue: 0,0:10:57.98,0:11:00.36,Kara,,0,0,0,,{\k79}interface {\k22}{\k103}photosynthesis
+Dialogue: 0,0:11:00.22,0:11:02.77,Kara,,0,0,0,,{\k77}reproduction {\k29}{\k49}growth {\k30}{\k35}different
+Dialogue: 0,0:11:02.43,0:11:04.88,Kara,,0,0,0,,{\k100}implementations {\k45}{\k19}Day {\k1}{\k43}3
+Dialogue: 0,0:11:04.82,0:11:07.09,Kara,,0,0,0,,{\k54}complete {\k45}{\k33}Commit {\k1}{\k59}message
+Dialogue: 0,0:11:07.07,0:11:08.73,Kara,,0,0,0,,{\k27}Added {\k1}{\k83}landmasses {\k1}{\k19}and
+Dialogue: 0,0:11:08.40,0:11:10.58,Kara,,0,0,0,,{\k110}self-replicating {\k1}{\k72}vegetation
+Dialogue: 0,0:11:10.68,0:11:13.01,Kara,,0,0,0,,{\k60}Implemented {\k1}{\k56}factory {\k1}{\k46}pattern {\k12}{\k22}for
+Dialogue: 0,0:11:12.68,0:11:15.24,Kara,,0,0,0,,{\k87}biological {\k1}{\k73}reproduction {\k48}{\k12}And
+Dialogue: 0,0:11:14.90,0:11:16.94,Kara,,0,0,0,,{\k34}God {\k1}{\k48}said {\k41}{\k14}Let {\k1}{\k15}there {\k1}{\k14}be
+Dialogue: 0,0:11:16.60,0:11:18.35,Kara,,0,0,0,,{\k47}lights {\k1}{\k8}in {\k1}{\k10}the {\k1}{\k61}firmament {\k1}{\k8}of
+Dialogue: 0,0:11:18.02,0:11:19.62,Kara,,0,0,0,,{\k7}the {\k1}{\k35}heaven {\k1}{\k11}to {\k1}{\k54}divide {\k1}{\k12}the
+Dialogue: 0,0:11:19.28,0:11:21.22,Kara,,0,0,0,,{\k35}day {\k1}{\k22}from {\k1}{\k8}the {\k1}{\k35}night {\k43}{\k11}and
+Dialogue: 0,0:11:20.88,0:11:22.89,Kara,,0,0,0,,{\k19}let {\k1}{\k19}them {\k1}{\k33}be {\k1}{\k18}for {\k1}{\k72}signs
+Dialogue: 0,0:11:22.75,0:11:24.62,Kara,,0,0,0,,{\k11}and {\k1}{\k18}for {\k1}{\k68}seasons {\k22}{\k12}and {\k1}{\k18}for
+Dialogue: 0,0:11:24.28,0:11:26.80,Kara,,0,0,0,,{\k59}days {\k20}{\k13}and {\k1}{\k62}years {\k45}{\k16}Day
+Dialogue: 0,0:11:26.47,0:11:28.95,Kara,,0,0,0,,{\k42}4 {\k45}{\k27}God {\k1}{\k42}creates {\k1}{\k10}the {\k1}{\k43}sun
+Dialogue: 0,0:11:29.02,0:11:31.64,Kara,,0,0,0,,{\k43}moon {\k31}{\k7}and {\k1}{\k62}stars {\k46}{\k12}But {\k1}{\k22}pay
+Dialogue: 0,0:11:31.30,0:11:33.45,Kara,,0,0,0,,{\k54}attention {\k1}{\k11}to {\k1}{\k31}why {\k1}{\k34}God {\k1}{\k43}creates
+Dialogue: 0,0:11:33.11,0:11:35.13,Kara,,0,0,0,,{\k20}them {\k53}{\k3}To {\k45}divide {\k1}{\k11}the {\k1}{\k33}day
+Dialogue: 0,0:11:34.80,0:11:36.93,Kara,,0,0,0,,{\k19}from {\k1}{\k7}the {\k1}{\k37}night {\k33}{\k12}to {\k1}{\k67}maintain
+Dialogue: 0,0:11:36.59,0:11:38.92,Kara,,0,0,0,,{\k11}the {\k1}{\k54}binary {\k1}{\k50}state {\k53}{\k7}And {\k20}let
+Dialogue: 0,0:11:38.59,0:11:40.76,Kara,,0,0,0,,{\k19}them {\k1}{\k33}be {\k1}{\k19}for {\k1}{\k75}signs {\k20}{\k12}and
+Dialogue: 0,0:11:40.42,0:11:42.74,Kara,,0,0,0,,{\k18}for {\k1}{\k69}seasons {\k20}{\k12}and {\k1}{\k18}for {\k1}{\k56}days
+Dialogue: 0,0:11:42.62,0:11:44.56,Kara,,0,0,0,,{\k15}and {\k1}{\k65}years {\k48}{\k12}This {\k1}{\k10}is {\k1}{\k5}a
+Dialogue: 0,0:11:44.23,0:11:46.86,Kara,,0,0,0,,{\k38}timing {\k1}{\k43}system {\k44}{\k5}A {\k1}{\k45}clock {\k45}{\k6}A
+Dialogue: 0,0:11:46.52,0:11:48.99,Kara,,0,0,0,,{\k60}scheduler {\k46}{\k7}The {\k1}{\k38}sun {\k8}{\k11}and {\k1}{\k39}moon
+Dialogue: 0,0:11:48.74,0:11:50.78,Kara,,0,0,0,,{\k12}are {\k1}{\k31}cron {\k1}{\k57}jobs {\k45}{\k11}They're {\k1}{\k9}the
+Dialogue: 0,0:11:50.45,0:11:52.57,Kara,,0,0,0,,{\k42}system {\k1}{\k41}clock {\k1}{\k16}that {\k1}{\k35}keeps {\k15}{\k23}all
+Dialogue: 0,0:11:52.23,0:11:54.83,Kara,,0,0,0,,{\k64}processes {\k1}{\k79}synchronized {\k53}{\k29}Sun
+Dialogue: 0,0:11:54.89,0:11:57.63,Kara,,0,0,0,,{\k28}Daily {\k1}{\k50}cycle {\k26}{\k83}24-hour {\k1}{\k49}clock
+Dialogue: 0,0:11:57.81,0:11:59.78,Kara,,0,0,0,,{\k28}Moon {\k48}{\k33}Monthly {\k1}{\k52}cycle
+Dialogue: 0,0:11:59.73,0:12:02.05,Kara,,0,0,0,,{\k143}29.5-day {\k1}{\k53}clock
+Dialogue: 0,0:12:02.23,0:12:04.88,Kara,,0,0,0,,{\k41}Stars {\k34}{\k42}Seasonal {\k1}{\k61}markers {\k12}{\k38}annual
+Dialogue: 0,0:12:04.54,0:12:07.12,Kara,,0,0,0,,{\k50}clock {\k53}{\k27}Without {\k1}{\k4}a {\k1}{\k48}clock {\k30}{\k8}you
+Dialogue: 0,0:12:06.78,0:12:09.17,Kara,,0,0,0,,{\k23}can't {\k1}{\k12}have {\k1}{\k42}scheduled {\k1}{\k68}tasks {\k45}{\k10}You
+Dialogue: 0,0:12:08.83,0:12:11.57,Kara,,0,0,0,,{\k23}can't {\k1}{\k18}have {\k1}{\k61}coordinated {\k1}{\k79}processes {\k45}{\k10}You
+Dialogue: 0,0:12:11.24,0:12:13.23,Kara,,0,0,0,,{\k23}can't {\k1}{\k14}have {\k1}{\k10}an {\k1}{\k79}ecosystem {\k18}{\k18}where
+Dialogue: 0,0:12:12.89,0:12:15.01,Kara,,0,0,0,,{\k42}different {\k1}{\k67}organisms {\k1}{\k50}operate {\k1}{\k13}on
+Dialogue: 0,0:12:14.67,0:12:17.28,Kara,,0,0,0,,{\k69}synchronized {\k1}{\k68}schedules {\k46}{\k5}The {\k1}{\k34}sun
+Dialogue: 0,0:12:16.94,0:12:19.30,Kara,,0,0,0,,{\k52}rises {\k18}{\k23}every {\k1}{\k33}day {\k46}{\k28}Plants
+Dialogue: 0,0:12:18.97,0:12:21.65,Kara,,0,0,0,,{\k111}photosynthesize {\k45}{\k38}Animals {\k1}{\k38}wake
+Dialogue: 0,0:12:21.76,0:12:23.95,Kara,,0,0,0,,{\k57}Processes {\k1}{\k52}execute {\k1}{\k12}on {\k1}{\k59}schedule
+Dialogue: 0,0:12:24.06,0:12:26.78,Kara,,0,0,0,,{\k18}This {\k1}{\k11}is {\k1}{\k69}distributed {\k1}{\k58}systems {\k1}{\k75}coordination
+Dialogue: 0,0:12:26.87,0:12:28.28,Kara,,0,0,0,,{\k25}This {\k1}{\k12}is {\k1}{\k14}how {\k1}{\k18}you {\k1}{\k33}keep
+Dialogue: 0,0:12:28.01,0:12:30.70,Kara,,0,0,0,,{\k10}a {\k10}{\k52}billion {\k1}{\k35}different {\k1}{\k83}processes {\k9}{\k33}all
+Dialogue: 0,0:12:30.37,0:12:32.39,Kara,,0,0,0,,{\k33}running {\k1}{\k8}in {\k1}{\k58}harmony {\k25}{\k35}without {\k1}{\k4}a
+Dialogue: 0,0:12:32.05,0:12:34.13,Kara,,0,0,0,,{\k43}central {\k1}{\k62}controller {\k1}{\k64}constantly
+Dialogue: 0,0:12:33.79,0:12:36.36,Kara,,0,0,0,,{\k86}micromanaging {\k45}{\k8}You {\k1}{\k29}create {\k1}{\k4}a {\k1}{\k46}clock
+Dialogue: 0,0:12:36.45,0:12:38.54,Kara,,0,0,0,,{\k10}You {\k1}{\k37}create {\k1}{\k31}shared {\k1}{\k35}time {\k45}{\k12}You
+Dialogue: 0,0:12:38.21,0:12:40.44,Kara,,0,0,0,,{\k45}create {\k8}{\k3}a {\k1}{\k68}universal {\k1}{\k62}scheduler
+Dialogue: 0,0:12:40.56,0:12:42.94,Kara,,0,0,0,,{\k16}Day {\k1}{\k41}4 {\k19}{\k53}complete {\k45}{\k29}Commit
+Dialogue: 0,0:12:42.61,0:12:45.14,Kara,,0,0,0,,{\k56}message {\k44}{\k56}Implemented {\k1}{\k62}celestial
+Dialogue: 0,0:12:44.81,0:12:46.80,Kara,,0,0,0,,{\k39}timing {\k1}{\k48}system {\k45}{\k31}Added
+Dialogue: 0,0:12:46.47,0:12:48.60,Kara,,0,0,0,,{\k92}synchronization {\k1}{\k58}mechanism {\k12}{\k13}for
+Dialogue: 0,0:12:48.26,0:12:50.73,Kara,,0,0,0,,{\k61}distributed {\k1}{\k86}processes {\k52}{\k12}And
+Dialogue: 0,0:12:50.39,0:12:52.77,Kara,,0,0,0,,{\k34}God {\k1}{\k50}said {\k41}{\k15}Let {\k1}{\k11}the {\k1}{\k48}waters
+Dialogue: 0,0:12:52.43,0:12:55.01,Kara,,0,0,0,,{\k27}bring {\k1}{\k45}forth {\k1}{\k80}abundantly {\k1}{\k11}the {\k1}{\k54}moving
+Dialogue: 0,0:12:54.67,0:12:56.93,Kara,,0,0,0,,{\k52}creature {\k1}{\k14}that {\k1}{\k25}hath {\k1}{\k45}life {\k44}{\k8}and
+Dialogue: 0,0:12:56.59,0:12:58.54,Kara,,0,0,0,,{\k41}fowl {\k1}{\k16}that {\k1}{\k18}may {\k1}{\k45}fly {\k1}{\k35}above
+Dialogue: 0,0:12:58.21,0:12:59.81,Kara,,0,0,0,,{\k11}the {\k1}{\k38}earth {\k8}{\k10}in {\k1}{\k12}the {\k11}{\k33}open
+Dialogue: 0,0:12:59.47,0:13:01.94,Kara,,0,0,0,,{\k61}firmament {\k1}{\k11}of {\k1}{\k38}heaven {\k45}{\k14}Day {\k1}{\k39}5
+Dialogue: 0,0:13:02.04,0:13:04.29,Kara,,0,0,0,,{\k23}God {\k1}{\k39}creates {\k1}{\k42}fish {\k13}{\k10}and {\k1}{\k58}birds
+Dialogue: 0,0:13:04.40,0:13:06.63,Kara,,0,0,0,,{\k10}But {\k1}{\k52}notice {\k26}{\k27}God {\k1}{\k31}doesn't {\k1}{\k38}create
+Dialogue: 0,0:13:06.29,0:13:08.68,Kara,,0,0,0,,{\k14}them {\k1}{\k59}directly {\k45}{\k27}God {\k1}{\k45}commands {\k1}{\k11}the
+Dialogue: 0,0:13:08.34,0:13:10.28,Kara,,0,0,0,,{\k52}waters {\k1}{\k11}to {\k1}{\k26}bring {\k1}{\k15}them {\k1}{\k50}forth
+Dialogue: 0,0:13:10.46,0:13:12.26,Kara,,0,0,0,,{\k4}Let {\k8}{\k10}the {\k1}{\k48}waters {\k1}{\k29}bring {\k1}{\k43}forth
+Dialogue: 0,0:13:11.93,0:13:14.25,Kara,,0,0,0,,{\k77}abundantly {\k46}{\k5}The {\k1}{\k67}environment
+Dialogue: 0,0:13:13.91,0:13:16.57,Kara,,0,0,0,,{\k50}generates {\k1}{\k45}life {\k46}{\k9}The {\k1}{\k26}data {\k1}{\k50}structures
+Dialogue: 0,0:13:16.24,0:13:18.66,Kara,,0,0,0,,{\k37}become {\k1}{\k69}populated {\k1}{\k13}with {\k1}{\k84}processes
+Dialogue: 0,0:13:18.76,0:13:20.85,Kara,,0,0,0,,{\k16}This {\k1}{\k11}is {\k1}{\k68}emergence {\k46}{\k18}This {\k1}{\k11}is
+Dialogue: 0,0:13:20.51,0:13:22.93,Kara,,0,0,0,,{\k79}complexity {\k10}{\k56}arising {\k1}{\k18}from {\k1}{\k42}simpler
+Dialogue: 0,0:13:22.59,0:13:24.41,Kara,,0,0,0,,{\k46}rules {\k45}{\k8}You {\k1}{\k22}set {\k1}{\k14}up {\k1}{\k8}the
+Dialogue: 0,0:13:24.08,0:13:26.76,Kara,,0,0,0,,{\k26}right {\k1}{\k75}conditions {\k22}{\k15}and {\k1}{\k30}life {\k1}{\k62}emerges
+Dialogue: 0,0:13:26.86,0:13:28.46,Kara,,0,0,0,,{\k11}You {\k1}{\k38}create {\k1}{\k10}the {\k1}{\k35}right {\k1}{\k26}data
+Dialogue: 0,0:13:28.12,0:13:30.77,Kara,,0,0,0,,{\k71}structures {\k22}{\k15}and {\k1}{\k64}complex {\k1}{\k56}behaviors
+Dialogue: 0,0:13:30.43,0:13:32.48,Kara,,0,0,0,,{\k60}arise {\k45}{\k7}And {\k1}{\k11}for {\k1}{\k8}the {\k1}{\k35}first
+Dialogue: 0,0:13:32.15,0:13:34.58,Kara,,0,0,0,,{\k39}time {\k39}{\k30}God {\k1}{\k45}creates {\k1}{\k35}things {\k1}{\k15}with
+Dialogue: 0,0:13:34.24,0:13:36.68,Kara,,0,0,0,,{\k72}nephesh {\k27}{\k12}the {\k1}{\k33}breath {\k1}{\k12}of {\k1}{\k49}life
+Dialogue: 0,0:13:36.59,0:13:38.73,Kara,,0,0,0,,{\k94}consciousness {\k19}{\k66}animation
+Dialogue: 0,0:13:38.88,0:13:40.49,Kara,,0,0,0,,{\k28}Fish {\k12}{\k11}and {\k1}{\k38}birds {\k1}{\k15}aren't {\k1}{\k16}like
+Dialogue: 0,0:13:40.15,0:13:42.59,Kara,,0,0,0,,{\k61}plants {\k45}{\k10}They {\k1}{\k38}move {\k46}{\k8}They
+Dialogue: 0,0:13:42.25,0:13:44.83,Kara,,0,0,0,,{\k52}sense {\k46}{\k10}They {\k1}{\k61}respond {\k46}{\k7}They
+Dialogue: 0,0:13:44.50,0:13:46.49,Kara,,0,0,0,,{\k16}have {\k1}{\k54}agency {\k45}{\k23}This {\k1}{\k11}is {\k1}{\k11}the
+Dialogue: 0,0:13:46.15,0:13:48.18,Kara,,0,0,0,,{\k37}jump {\k1}{\k18}from {\k1}{\k49}static {\k1}{\k34}data {\k12}{\k14}to
+Dialogue: 0,0:13:47.84,0:13:50.36,Kara,,0,0,0,,{\k34}active {\k1}{\k80}processes {\k48}{\k14}From {\k1}{\k39}stored
+Dialogue: 0,0:13:50.03,0:13:52.44,Kara,,0,0,0,,{\k76}procedures {\k19}{\k16}to {\k1}{\k30}running {\k1}{\k62}threads
+Dialogue: 0,0:13:52.54,0:13:55.02,Kara,,0,0,0,,{\k22}These {\k1}{\k46}creatures {\k1}{\k22}are {\k1}{\k60}autonomous {\k1}{\k58}agents
+Dialogue: 0,0:13:55.13,0:13:57.41,Kara,,0,0,0,,{\k8}They {\k1}{\k30}run {\k1}{\k81}independently {\k45}{\k8}They {\k1}{\k16}have
+Dialogue: 0,0:13:57.08,0:13:59.66,Kara,,0,0,0,,{\k15}their {\k1}{\k18}own {\k1}{\k67}processing {\k1}{\k46}loops {\k46}{\k27}God
+Dialogue: 0,0:13:59.32,0:14:01.34,Kara,,0,0,0,,{\k42}creates {\k1}{\k11}the {\k1}{\k48}first {\k12}{\k52}AI
+Dialogue: 0,0:14:01.29,0:14:03.73,Kara,,0,0,0,,{\k64}autonomous {\k1}{\k80}intelligence {\k45}{\k19}Not
+Dialogue: 0,0:14:03.40,0:14:05.99,Kara,,0,0,0,,{\k64}artificial {\k26}{\k14}but {\k1}{\k56}created {\k45}{\k19}Not
+Dialogue: 0,0:14:05.65,0:14:08.05,Kara,,0,0,0,,{\k90}silicon-based {\k19}{\k16}but {\k1}{\k79}carbon-based
+Dialogue: 0,0:14:08.16,0:14:10.87,Kara,,0,0,0,,{\k8}But {\k1}{\k61}intelligent {\k1}{\k79}nonetheless {\k45}{\k8}And {\k1}{\k30}God
+Dialogue: 0,0:14:10.53,0:14:13.00,Kara,,0,0,0,,{\k42}blesses {\k1}{\k23}them {\k46}{\k12}And {\k1}{\k39}God {\k1}{\k45}blessed
+Dialogue: 0,0:14:12.66,0:14:15.28,Kara,,0,0,0,,{\k25}them {\k37}{\k53}saying {\k30}{\k16}Be {\k1}{\k65}fruitful
+Dialogue: 0,0:14:15.31,0:14:17.52,Kara,,0,0,0,,{\k11}and {\k1}{\k76}multiply {\k39}{\k14}and {\k1}{\k31}fill {\k1}{\k11}the
+Dialogue: 0,0:14:17.19,0:14:19.25,Kara,,0,0,0,,{\k49}waters {\k1}{\k8}in {\k1}{\k8}the {\k1}{\k57}seas {\k31}{\k14}and
+Dialogue: 0,0:14:18.91,0:14:20.77,Kara,,0,0,0,,{\k18}let {\k1}{\k38}fowl {\k1}{\k69}multiply {\k1}{\k11}in {\k1}{\k9}the
+Dialogue: 0,0:14:20.43,0:14:22.92,Kara,,0,0,0,,{\k45}earth {\k45}{\k26}God {\k1}{\k31}doesn't {\k1}{\k29}just {\k1}{\k34}create
+Dialogue: 0,0:14:22.58,0:14:24.79,Kara,,0,0,0,,{\k73}instances {\k45}{\k24}God {\k1}{\k35}creates {\k1}{\k5}a
+Dialogue: 0,0:14:24.46,0:14:26.44,Kara,,0,0,0,,{\k80}population {\k14}{\k14}that {\k1}{\k12}will {\k1}{\k41}grow
+Dialogue: 0,0:14:26.10,0:14:28.80,Kara,,0,0,0,,{\k84}exponentially {\k45}{\k59}Exponential {\k1}{\k46}growth
+Dialogue: 0,0:14:28.91,0:14:30.97,Kara,,0,0,0,,{\k41}Scaling {\k1}{\k20}up {\k46}{\k5}The {\k1}{\k43}system {\k1}{\k11}is
+Dialogue: 0,0:14:30.64,0:14:32.58,Kara,,0,0,0,,{\k54}designed {\k1}{\k8}to {\k1}{\k35}fill {\k1}{\k12}the {\k1}{\k43}available
+Dialogue: 0,0:14:32.24,0:14:34.36,Kara,,0,0,0,,{\k61}space {\k52}{\k16}Day {\k1}{\k46}5
+Dialogue: 0,0:14:34.22,0:14:36.36,Kara,,0,0,0,,{\k50}complete {\k45}{\k28}Commit {\k1}{\k54}message
+Dialogue: 0,0:14:36.42,0:14:38.93,Kara,,0,0,0,,{\k27}Added {\k1}{\k62}autonomous {\k1}{\k54}agents {\k18}{\k52}fish
+Dialogue: 0,0:14:38.73,0:14:40.64,Kara,,0,0,0,,{\k54}birds {\k46}{\k56}Implemented
+Dialogue: 0,0:14:40.30,0:14:42.63,Kara,,0,0,0,,{\k84}consciousness {\k7}{\k19}and {\k1}{\k87}self-directed
+Dialogue: 0,0:14:42.30,0:14:44.96,Kara,,0,0,0,,{\k58}behavior {\k45}{\k46}Enabled {\k12}{\k69}exponential
+Dialogue: 0,0:14:44.62,0:14:47.09,Kara,,0,0,0,,{\k69}population {\k1}{\k49}growth {\k48}{\k11}And {\k1}{\k33}God
+Dialogue: 0,0:14:46.75,0:14:48.90,Kara,,0,0,0,,{\k48}said {\k39}{\k16}Let {\k1}{\k12}the {\k1}{\k30}earth {\k1}{\k30}bring
+Dialogue: 0,0:14:48.56,0:14:50.64,Kara,,0,0,0,,{\k42}forth {\k1}{\k14}the {\k1}{\k34}living {\k1}{\k50}creature {\k1}{\k27}after
+Dialogue: 0,0:14:50.30,0:14:52.60,Kara,,0,0,0,,{\k12}his {\k1}{\k53}kind {\k38}{\k50}cattle {\k30}{\k10}and
+Dialogue: 0,0:14:52.26,0:14:54.51,Kara,,0,0,0,,{\k46}creeping {\k1}{\k45}thing {\k35}{\k18}and {\k1}{\k34}beast {\k1}{\k8}of
+Dialogue: 0,0:14:54.17,0:14:55.90,Kara,,0,0,0,,{\k8}the {\k1}{\k37}earth {\k1}{\k30}after {\k1}{\k12}his {\k1}{\k45}kind
+Dialogue: 0,0:14:56.01,0:14:57.73,Kara,,0,0,0,,{\k12}and {\k1}{\k10}it {\k1}{\k16}was {\k1}{\k38}so {\k45}{\k12}Day
+Dialogue: 0,0:14:57.39,0:14:59.71,Kara,,0,0,0,,{\k52}6 {\k45}{\k23}God {\k1}{\k39}creates {\k1}{\k35}land
+Dialogue: 0,0:14:59.38,0:15:02.00,Kara,,0,0,0,,{\k60}animals {\k45}{\k33}Same {\k1}{\k46}pattern {\k1}{\k16}as {\k1}{\k23}Day
+Dialogue: 0,0:15:01.66,0:15:03.91,Kara,,0,0,0,,{\k48}5 {\k50}{\k16}Let {\k1}{\k12}the {\k1}{\k30}earth {\k1}{\k30}bring
+Dialogue: 0,0:15:03.58,0:15:06.30,Kara,,0,0,0,,{\k54}forth {\k54}{\k5}The {\k1}{\k61}substrate {\k1}{\k49}generates {\k1}{\k9}the
+Dialogue: 0,0:15:05.97,0:15:08.63,Kara,,0,0,0,,{\k84}processes {\k45}{\k5}The {\k1}{\k57}hardware {\k1}{\k26}runs {\k1}{\k10}the
+Dialogue: 0,0:15:08.29,0:15:10.88,Kara,,0,0,0,,{\k65}software {\k45}{\k37}Cattle {\k45}{\k33}Creeping
+Dialogue: 0,0:15:10.55,0:15:13.23,Kara,,0,0,0,,{\k53}things {\k46}{\k50}Beasts {\k45}{\k39}Each
+Dialogue: 0,0:15:13.07,0:15:15.75,Kara,,0,0,0,,{\k37}after {\k1}{\k14}his {\k1}{\k42}kind {\k50}{\k20}each {\k1}{\k65}species
+Dialogue: 0,0:15:15.41,0:15:17.66,Kara,,0,0,0,,{\k18}with {\k1}{\k18}its {\k9}{\k33}own {\k1}{\k44}class {\k1}{\k65}definition
+Dialogue: 0,0:15:17.64,0:15:20.20,Kara,,0,0,0,,{\k11}its {\k1}{\k26}own {\k1}{\k61}inherited {\k1}{\k77}behaviors {\k28}{\k14}its
+Dialogue: 0,0:15:19.98,0:15:22.55,Kara,,0,0,0,,{\k25}own {\k1}{\k99}implementation {\k1}{\k12}of {\k1}{\k11}the {\k1}{\k71}LivingCreature
+Dialogue: 0,0:15:22.22,0:15:24.84,Kara,,0,0,0,,{\k72}interface {\k46}{\k11}But {\k1}{\k24}all {\k1}{\k60}implementing {\k1}{\k10}the
+Dialogue: 0,0:15:24.50,0:15:27.24,Kara,,0,0,0,,{\k37}same {\k1}{\k34}core {\k1}{\k72}functions {\k29}{\k65}perceive
+Dialogue: 0,0:15:27.19,0:15:28.97,Kara,,0,0,0,,{\k60}decide {\k45}{\k38}act
+Dialogue: 0,0:15:28.88,0:15:31.28,Kara,,0,0,0,,{\k72}reproduce {\k45}{\k26}God {\k1}{\k12}is {\k1}{\k42}building {\k1}{\k4}a
+Dialogue: 0,0:15:30.94,0:15:32.99,Kara,,0,0,0,,{\k64}massive {\k14}{\k92}object-oriented
+Dialogue: 0,0:15:32.65,0:15:35.27,Kara,,0,0,0,,{\k80}ecosystem {\k46}{\k79}Polymorphism {\k12}{\k10}at
+Dialogue: 0,0:15:34.93,0:15:37.23,Kara,,0,0,0,,{\k57}planetary {\k1}{\k48}scale {\k45}{\k10}And {\k1}{\k33}then
+Dialogue: 0,0:15:37.33,0:15:39.29,Kara,,0,0,0,,{\k7}And {\k1}{\k12}then {\k1}{\k33}something {\k1}{\k48}different {\k46}{\k12}And
+Dialogue: 0,0:15:38.96,0:15:41.11,Kara,,0,0,0,,{\k37}God {\k1}{\k50}said {\k39}{\k11}Let {\k1}{\k15}us {\k1}{\k24}make
+Dialogue: 0,0:15:40.78,0:15:43.11,Kara,,0,0,0,,{\k49}man {\k1}{\k14}in {\k1}{\k20}our {\k1}{\k53}image {\k23}{\k35}after
+Dialogue: 0,0:15:42.77,0:15:44.93,Kara,,0,0,0,,{\k12}our {\k1}{\k65}likeness {\k43}{\k15}and {\k1}{\k20}let {\k1}{\k20}them
+Dialogue: 0,0:15:44.60,0:15:46.70,Kara,,0,0,0,,{\k26}have {\k1}{\k62}dominion {\k15}{\k22}over {\k1}{\k10}the {\k1}{\k37}fish
+Dialogue: 0,0:15:46.36,0:15:48.12,Kara,,0,0,0,,{\k8}of {\k1}{\k7}the {\k1}{\k50}sea {\k34}{\k15}and {\k1}{\k23}over
+Dialogue: 0,0:15:47.79,0:15:49.36,Kara,,0,0,0,,{\k11}the {\k1}{\k46}fowl {\k1}{\k10}of {\k1}{\k8}the {\k1}{\k42}air
+Dialogue: 0,0:15:49.35,0:15:51.15,Kara,,0,0,0,,{\k12}and {\k1}{\k22}over {\k1}{\k10}the {\k1}{\k46}cattle {\k39}{\k12}and
+Dialogue: 0,0:15:50.82,0:15:52.92,Kara,,0,0,0,,{\k34}over {\k8}{\k25}all {\k1}{\k15}the {\k1}{\k45}earth {\k27}{\k19}and
+Dialogue: 0,0:15:52.58,0:15:54.89,Kara,,0,0,0,,{\k37}over {\k12}{\k38}every {\k1}{\k54}creeping {\k1}{\k35}thing {\k1}{\k15}that
+Dialogue: 0,0:15:54.55,0:15:57.13,Kara,,0,0,0,,{\k48}creepeth {\k1}{\k35}upon {\k1}{\k8}the {\k1}{\k44}earth {\k45}{\k39}Stop
+Dialogue: 0,0:15:57.24,0:15:59.40,Kara,,0,0,0,,{\k49}Pause {\k46}{\k13}This {\k1}{\k11}is {\k1}{\k8}the {\k1}{\k49}moment
+Dialogue: 0,0:15:59.58,0:16:00.86,Kara,,0,0,0,,{\k5}Let {\k12}us {\k1}{\k20}make {\k1}{\k39}man {\k1}{\k11}in
+Dialogue: 0,0:16:00.52,0:16:03.23,Kara,,0,0,0,,{\k16}our {\k1}{\k52}image {\k52}{\k35}First {\k27}{\k19}Let {\k1}{\k33}us
+Dialogue: 0,0:16:03.47,0:16:06.20,Kara,,0,0,0,,{\k34}Plural {\k46}{\k5}The {\k1}{\k54}Trinity {\k46}{\k6}The {\k1}{\k44}divine
+Dialogue: 0,0:16:05.86,0:16:07.93,Kara,,0,0,0,,{\k42}committee {\k1}{\k11}of {\k1}{\k31}One {\k45}{\k27}God {\k1}{\k12}as
+Dialogue: 0,0:16:07.60,0:16:09.69,Kara,,0,0,0,,{\k64}distributed {\k1}{\k52}system {\k33}{\k25}three
+Dialogue: 0,0:16:09.35,0:16:12.02,Kara,,0,0,0,,{\k73}persons {\k23}{\k20}one {\k1}{\k60}essence {\k46}{\k8}But
+Dialogue: 0,0:16:11.69,0:16:13.56,Kara,,0,0,0,,{\k22}that's {\k1}{\k5}a {\k1}{\k75}conversation {\k1}{\k16}for {\k1}{\k28}another
+Dialogue: 0,0:16:13.22,0:16:15.96,Kara,,0,0,0,,{\k35}night {\k45}{\k37}Tonight {\k25}{\k42}focus {\k1}{\k15}on {\k1}{\k38}this
+Dialogue: 0,0:16:15.87,0:16:18.15,Kara,,0,0,0,,{\k14}in {\k1}{\k16}our {\k1}{\k52}image {\k49}{\k31}Every {\k1}{\k27}other
+Dialogue: 0,0:16:17.82,0:16:19.89,Kara,,0,0,0,,{\k43}creature {\k1}{\k18}was {\k1}{\k42}made {\k16}{\k35}after {\k1}{\k14}his
+Dialogue: 0,0:16:19.55,0:16:21.98,Kara,,0,0,0,,{\k45}kind {\k34}{\k60}species {\k1}{\k68}replicating
+Dialogue: 0,0:16:21.65,0:16:24.12,Kara,,0,0,0,,{\k37}within {\k1}{\k16}their {\k1}{\k42}type {\k46}{\k8}But {\k1}{\k58}humanity
+Dialogue: 0,0:16:24.23,0:16:26.52,Kara,,0,0,0,,{\k65}Humanity {\k14}{\k12}is {\k1}{\k38}made {\k1}{\k28}after {\k1}{\k33}God's
+Dialogue: 0,0:16:26.18,0:16:28.49,Kara,,0,0,0,,{\k48}kind {\k45}{\k11}In {\k1}{\k41}God's {\k1}{\k49}image
+Dialogue: 0,0:16:28.59,0:16:31.02,Kara,,0,0,0,,{\k43}According {\k1}{\k10}to {\k1}{\k35}God's {\k1}{\k62}likeness {\k45}{\k8}What
+Dialogue: 0,0:16:30.68,0:16:32.57,Kara,,0,0,0,,{\k12}does {\k1}{\k16}this {\k1}{\k37}mean {\k45}{\k11}It {\k1}{\k28}means
+Dialogue: 0,0:16:32.23,0:16:34.59,Kara,,0,0,0,,{\k67}humanity {\k1}{\k60}inherits {\k1}{\k16}from {\k1}{\k8}the {\k1}{\k45}divine
+Dialogue: 0,0:16:34.25,0:16:36.62,Kara,,0,0,0,,{\k30}base {\k1}{\k64}class {\k46}{\k34}Humans {\k1}{\k9}are {\k1}{\k14}the
+Dialogue: 0,0:16:36.35,0:16:38.56,Kara,,0,0,0,,{\k37}only {\k1}{\k57}creatures {\k1}{\k37}made {\k1}{\k11}in {\k1}{\k39}God's
+Dialogue: 0,0:16:38.22,0:16:40.76,Kara,,0,0,0,,{\k52}image {\k46}{\k30}Plants {\k1}{\k90}self-replicate
+Dialogue: 0,0:16:40.67,0:16:42.73,Kara,,0,0,0,,{\k15}but {\k1}{\k25}don't {\k1}{\k39}create {\k1}{\k22}new {\k1}{\k65}things
+Dialogue: 0,0:16:42.83,0:16:45.34,Kara,,0,0,0,,{\k41}Animals {\k1}{\k18}have {\k1}{\k87}consciousness {\k24}{\k18}but {\k1}{\k25}don't
+Dialogue: 0,0:16:45.00,0:16:47.32,Kara,,0,0,0,,{\k23}have {\k1}{\k31}moral {\k1}{\k67}awareness {\k45}{\k29}Only
+Dialogue: 0,0:16:46.99,0:16:49.05,Kara,,0,0,0,,{\k48}humans {\k1}{\k22}have {\k1}{\k8}the {\k1}{\k38}full {\k1}{\k50}suite
+Dialogue: 0,0:16:49.22,0:16:51.56,Kara,,0,0,0,,{\k92}consciousness {\k25}{\k83}creativity
+Dialogue: 0,0:16:51.55,0:16:54.02,Kara,,0,0,0,,{\k28}free {\k1}{\k38}will {\k26}{\k62}morality {\k45}{\k11}And
+Dialogue: 0,0:16:53.68,0:16:55.90,Kara,,0,0,0,,{\k53}critically {\k46}{\k23}only {\k1}{\k46}humans {\k1}{\k15}can
+Dialogue: 0,0:16:55.56,0:16:57.92,Kara,,0,0,0,,{\k53}create {\k45}{\k14}Not {\k1}{\k20}just {\k1}{\k67}reproduce
+Dialogue: 0,0:16:58.02,0:17:00.01,Kara,,0,0,0,,{\k14}Not {\k1}{\k19}just {\k1}{\k41}copy {\k45}{\k44}Create
+Dialogue: 0,0:17:00.12,0:17:02.13,Kara,,0,0,0,,{\k37}Humans {\k1}{\k18}can {\k1}{\k52}imagine {\k1}{\k38}things {\k1}{\k16}that
+Dialogue: 0,0:17:01.80,0:17:04.12,Kara,,0,0,0,,{\k23}don't {\k1}{\k61}exist {\k45}{\k11}Can {\k1}{\k54}architect
+Dialogue: 0,0:17:03.78,0:17:05.61,Kara,,0,0,0,,{\k57}systems {\k1}{\k12}that {\k1}{\k14}have {\k1}{\k29}never {\k1}{\k31}been
+Dialogue: 0,0:17:05.71,0:17:07.55,Kara,,0,0,0,,{\k14}Can {\k1}{\k22}write {\k1}{\k31}code {\k1}{\k14}that {\k1}{\k64}compiles
+Dialogue: 0,0:17:07.22,0:17:09.39,Kara,,0,0,0,,{\k26}new {\k1}{\k80}realities {\k51}{\k24}You
+Dialogue: 0,0:17:09.35,0:17:11.71,Kara,,0,0,0,,{\k37}sitting {\k1}{\k24}there {\k27}{\k56}developer {\k34}{\k10}you {\k1}{\k11}are
+Dialogue: 0,0:17:11.38,0:17:13.55,Kara,,0,0,0,,{\k35}code {\k1}{\k19}that {\k1}{\k26}writes {\k1}{\k41}code {\k45}{\k12}You
+Dialogue: 0,0:17:13.21,0:17:15.16,Kara,,0,0,0,,{\k10}are {\k1}{\k7}a {\k1}{\k53}conscious {\k1}{\k67}process {\k1}{\k19}that
+Dialogue: 0,0:17:14.83,0:17:17.42,Kara,,0,0,0,,{\k52}generates {\k1}{\k22}new {\k1}{\k84}processes {\k45}{\k8}You {\k1}{\k9}are
+Dialogue: 0,0:17:17.08,0:17:19.63,Kara,,0,0,0,,{\k53}software {\k1}{\k14}that {\k1}{\k35}creates {\k1}{\k61}software {\k45}{\k8}You
+Dialogue: 0,0:17:19.30,0:17:20.67,Kara,,0,0,0,,{\k10}are {\k1}{\k29}made {\k1}{\k8}in {\k1}{\k10}the {\k7}{\k35}image
+Dialogue: 0,0:17:20.33,0:17:22.20,Kara,,0,0,0,,{\k7}of {\k1}{\k8}the {\k1}{\k68}Programmer {\k45}{\k10}When {\k1}{\k11}you
+Dialogue: 0,0:17:21.87,0:17:23.49,Kara,,0,0,0,,{\k23}sit {\k1}{\k24}down {\k1}{\k7}at {\k1}{\k11}your {\k1}{\k57}terminal
+Dialogue: 0,0:17:23.40,0:17:25.60,Kara,,0,0,0,,{\k7}and {\k1}{\k27}type {\k1}{\k39}class {\k1}{\k60}NewThing {\k41}{\k7}and
+Dialogue: 0,0:17:25.26,0:17:27.50,Kara,,0,0,0,,{\k49}compile {\k1}{\k38}something {\k1}{\k26}into {\k1}{\k72}existence
+Dialogue: 0,0:17:27.60,0:17:28.94,Kara,,0,0,0,,{\k11}you {\k1}{\k20}are {\k1}{\k48}acting {\k1}{\k7}in {\k1}{\k8}the
+Dialogue: 0,0:17:28.61,0:17:30.90,Kara,,0,0,0,,{\k43}divine {\k1}{\k52}image {\k45}{\k10}You {\k1}{\k11}are {\k1}{\k30}doing
+Dialogue: 0,0:17:30.56,0:17:32.47,Kara,,0,0,0,,{\k18}what {\k1}{\k26}God {\k1}{\k44}does {\k45}{\k12}You {\k1}{\k8}are
+Dialogue: 0,0:17:32.14,0:17:34.68,Kara,,0,0,0,,{\k49}creating {\k46}{\k24}So {\k1}{\k46}God {\k1}{\k50}created
+Dialogue: 0,0:17:34.34,0:17:36.21,Kara,,0,0,0,,{\k41}man {\k1}{\k12}in {\k1}{\k18}his {\k1}{\k25}own {\k1}{\k52}image
+Dialogue: 0,0:17:36.17,0:17:37.72,Kara,,0,0,0,,{\k11}in {\k1}{\k12}the {\k1}{\k37}image {\k1}{\k12}of {\k1}{\k42}God
+Dialogue: 0,0:17:37.38,0:17:39.73,Kara,,0,0,0,,{\k49}created {\k1}{\k20}he {\k1}{\k18}him {\k48}{\k42}male {\k10}{\k11}and
+Dialogue: 0,0:17:39.39,0:17:41.84,Kara,,0,0,0,,{\k62}female {\k1}{\k48}created {\k1}{\k18}he {\k1}{\k23}them {\k46}{\k8}And
+Dialogue: 0,0:17:41.50,0:17:43.81,Kara,,0,0,0,,{\k37}here {\k43}{\k43}sexual {\k1}{\k71}dimorphism
+Dialogue: 0,0:17:43.92,0:17:46.16,Kara,,0,0,0,,{\k31}Binary {\k1}{\k56}sex {\k45}{\k37}Male {\k12}{\k7}and
+Dialogue: 0,0:17:45.82,0:17:47.84,Kara,,0,0,0,,{\k58}female {\k45}{\k26}Not {\k1}{\k37}one
+Dialogue: 0,0:17:47.60,0:17:49.81,Kara,,0,0,0,,{\k87}undifferentiated {\k1}{\k41}human {\k45}{\k12}Two
+Dialogue: 0,0:17:49.48,0:17:51.80,Kara,,0,0,0,,{\k53}types {\k46}{\k18}Two {\k1}{\k79}complementary
+Dialogue: 0,0:17:51.46,0:17:53.62,Kara,,0,0,0,,{\k107}implementations {\k13}{\k11}of {\k1}{\k8}the {\k1}{\k38}same
+Dialogue: 0,0:17:53.28,0:17:55.87,Kara,,0,0,0,,{\k73}interface {\k45}{\k11}And {\k1}{\k31}God {\k1}{\k38}blessed {\k1}{\k22}them
+Dialogue: 0,0:17:55.78,0:17:58.25,Kara,,0,0,0,,{\k49}saying {\k46}{\k14}Be {\k1}{\k67}fruitful {\k24}{\k11}and
+Dialogue: 0,0:17:57.91,0:18:00.18,Kara,,0,0,0,,{\k80}multiply {\k23}{\k14}and {\k1}{\k60}replenish {\k1}{\k12}the
+Dialogue: 0,0:17:59.84,0:18:02.16,Kara,,0,0,0,,{\k48}earth {\k22}{\k12}and {\k1}{\k50}subdue {\k1}{\k12}it {\k45}{\k5}and
+Dialogue: 0,0:18:01.83,0:18:03.90,Kara,,0,0,0,,{\k26}have {\k1}{\k61}dominion {\k14}{\k20}over {\k1}{\k9}the {\k1}{\k38}fish
+Dialogue: 0,0:18:03.57,0:18:05.40,Kara,,0,0,0,,{\k10}of {\k1}{\k8}the {\k1}{\k48}sea {\k42}{\k15}and {\k1}{\k22}over
+Dialogue: 0,0:18:05.06,0:18:06.65,Kara,,0,0,0,,{\k11}the {\k1}{\k46}fowl {\k1}{\k10}of {\k1}{\k8}the {\k1}{\k43}air
+Dialogue: 0,0:18:06.62,0:18:08.79,Kara,,0,0,0,,{\k16}and {\k1}{\k35}over {\k11}{\k35}every {\k1}{\k41}living {\k1}{\k39}thing
+Dialogue: 0,0:18:08.46,0:18:10.33,Kara,,0,0,0,,{\k19}that {\k1}{\k42}moveth {\k1}{\k34}upon {\k1}{\k10}the {\k1}{\k42}earth
+Dialogue: 0,0:18:10.43,0:18:12.24,Kara,,0,0,0,,{\k22}This {\k1}{\k11}is {\k1}{\k10}the {\k1}{\k41}first {\k1}{\k58}command
+Dialogue: 0,0:18:11.98,0:18:14.72,Kara,,0,0,0,,{\k24}given {\k1}{\k8}to {\k1}{\k61}humans {\k45}{\k29}Not {\k26}{\k43}worship
+Dialogue: 0,0:18:14.38,0:18:17.03,Kara,,0,0,0,,{\k22}me {\k49}{\k18}that {\k1}{\k24}comes {\k1}{\k38}later {\k46}{\k30}Not
+Dialogue: 0,0:18:16.70,0:18:18.71,Kara,,0,0,0,,{\k24}don't {\k1}{\k43}sin {\k44}{\k11}they {\k1}{\k22}don't {\k1}{\k18}know
+Dialogue: 0,0:18:18.38,0:18:20.91,Kara,,0,0,0,,{\k27}about {\k1}{\k24}sin {\k1}{\k31}yet {\k65}{\k3}Be {\k8}{\k57}fruitful
+Dialogue: 0,0:18:21.01,0:18:23.05,Kara,,0,0,0,,{\k54}Multiply {\k48}{\k12}Fill {\k1}{\k12}the {\k1}{\k39}earth
+Dialogue: 0,0:18:23.14,0:18:25.84,Kara,,0,0,0,,{\k34}Subdue {\k1}{\k16}it {\k45}{\k16}Have {\k1}{\k49}dominion {\k46}{\k26}God
+Dialogue: 0,0:18:25.51,0:18:27.66,Kara,,0,0,0,,{\k14}is {\k1}{\k61}delegating {\k1}{\k30}admin {\k1}{\k72}privileges
+Dialogue: 0,0:18:27.76,0:18:30.40,Kara,,0,0,0,,{\k26}God {\k1}{\k41}creates {\k1}{\k58}humans {\k12}{\k15}and {\k1}{\k72}immediately
+Dialogue: 0,0:18:30.06,0:18:31.90,Kara,,0,0,0,,{\k31}gives {\k1}{\k22}them {\k1}{\k23}root {\k1}{\k58}access {\k1}{\k10}to
+Dialogue: 0,0:18:31.57,0:18:33.82,Kara,,0,0,0,,{\k10}the {\k1}{\k49}planet {\k53}{\k15}Have {\k8}{\k54}dominion
+Dialogue: 0,0:18:33.82,0:18:36.25,Kara,,0,0,0,,{\k39}radah {\k1}{\k11}in {\k1}{\k56}Hebrew {\k43}{\k15}to {\k1}{\k39}rule
+Dialogue: 0,0:18:36.27,0:18:39.01,Kara,,0,0,0,,{\k10}to {\k1}{\k57}manage {\k20}{\k11}to {\k1}{\k59}steward {\k46}{\k34}Humans
+Dialogue: 0,0:18:38.67,0:18:41.33,Kara,,0,0,0,,{\k11}are {\k1}{\k29}given {\k1}{\k53}system {\k12}{\k72}administrator {\k1}{\k50}rights
+Dialogue: 0,0:18:41.43,0:18:43.93,Kara,,0,0,0,,{\k34}Sudo {\k1}{\k57}access {\k45}{\k8}The {\k1}{\k56}ability {\k1}{\k11}to
+Dialogue: 0,0:18:43.59,0:18:46.06,Kara,,0,0,0,,{\k64}modify {\k1}{\k8}the {\k1}{\k75}environment {\k45}{\k8}And {\k1}{\k8}the
+Dialogue: 0,0:18:45.73,0:18:47.65,Kara,,0,0,0,,{\k62}directive {\k28}{\k49}subdue {\k1}{\k16}it
+Dialogue: 0,0:18:47.76,0:18:50.23,Kara,,0,0,0,,{\k60}Kabash {\k23}{\k10}to {\k1}{\k30}bring {\k1}{\k24}under {\k1}{\k61}control
+Dialogue: 0,0:18:50.26,0:18:52.76,Kara,,0,0,0,,{\k11}to {\k1}{\k62}cultivate {\k38}{\k11}to {\k1}{\k24}make {\k1}{\k64}productive
+Dialogue: 0,0:18:52.86,0:18:55.00,Kara,,0,0,0,,{\k23}God {\k1}{\k11}is {\k1}{\k35}telling {\k1}{\k60}humans {\k41}{\k5}I
+Dialogue: 0,0:18:54.67,0:18:56.59,Kara,,0,0,0,,{\k42}created {\k1}{\k7}the {\k1}{\k72}hardware {\k15}{\k7}and {\k1}{\k11}the
+Dialogue: 0,0:18:56.26,0:18:58.43,Kara,,0,0,0,,{\k68}OS {\k45}{\k18}Now {\k1}{\k12}you {\k1}{\k24}build {\k1}{\k11}the
+Dialogue: 0,0:18:58.09,0:19:00.53,Kara,,0,0,0,,{\k91}applications {\k45}{\k11}You {\k1}{\k52}terraform {\k1}{\k8}the
+Dialogue: 0,0:19:00.20,0:19:02.69,Kara,,0,0,0,,{\k46}planet {\k45}{\k10}You {\k1}{\k42}develop {\k1}{\k10}the {\k1}{\k58}potential
+Dialogue: 0,0:19:02.36,0:19:04.30,Kara,,0,0,0,,{\k12}I've {\k1}{\k39}embedded {\k1}{\k37}here {\k45}{\k14}You {\k1}{\k8}are
+Dialogue: 0,0:19:03.96,0:19:06.18,Kara,,0,0,0,,{\k8}the {\k1}{\k73}developers {\k45}{\k12}Get {\k1}{\k10}to {\k1}{\k35}work
+Dialogue: 0,0:19:06.30,0:19:08.62,Kara,,0,0,0,,{\k50}Genesis {\k1}{\k26}2 {\k1}{\k37}zooms {\k1}{\k19}in {\k45}{\k16}Gives
+Dialogue: 0,0:19:08.28,0:19:10.46,Kara,,0,0,0,,{\k12}us {\k1}{\k16}more {\k1}{\k50}detail {\k46}{\k5}The {\k1}{\k49}director's
+Dialogue: 0,0:19:10.13,0:19:12.61,Kara,,0,0,0,,{\k68}commentary {\k1}{\k15}on {\k1}{\k62}chapter 1 {\k45}{\k8}And {\k1}{\k11}the
+Dialogue: 0,0:19:12.27,0:19:14.40,Kara,,0,0,0,,{\k34}Lord {\k1}{\k39}God {\k1}{\k45}planted {\k1}{\k5}a {\k1}{\k49}garden
+Dialogue: 0,0:19:14.20,0:19:16.25,Kara,,0,0,0,,{\k48}eastward {\k1}{\k11}in {\k1}{\k33}Eden {\k42}{\k9}and {\k1}{\k23}there
+Dialogue: 0,0:19:15.92,0:19:17.39,Kara,,0,0,0,,{\k15}he {\k1}{\k22}put {\k1}{\k10}the {\k1}{\k42}man {\k1}{\k19}whom
+Dialogue: 0,0:19:17.06,0:19:19.11,Kara,,0,0,0,,{\k11}he {\k1}{\k12}had {\k1}{\k53}formed {\k45}{\k6}A {\k1}{\k39}garden
+Dialogue: 0,0:19:19.19,0:19:21.56,Kara,,0,0,0,,{\k33}Eden {\k45}{\k56}Gan-Eden {\k1}{\k11}in {\k1}{\k56}Hebrew
+Dialogue: 0,0:19:21.53,0:19:23.78,Kara,,0,0,0,,{\k11}the {\k1}{\k38}garden {\k1}{\k12}of {\k1}{\k56}delight {\k45}{\k24}This
+Dialogue: 0,0:19:23.44,0:19:25.87,Kara,,0,0,0,,{\k11}is {\k1}{\k11}the {\k1}{\k52}first {\k11}{\k60}isolated {\k1}{\k60}development
+Dialogue: 0,0:19:25.54,0:19:28.25,Kara,,0,0,0,,{\k68}environment {\k46}{\k7}The {\k1}{\k38}first {\k1}{\k75}sandboxed
+Dialogue: 0,0:19:27.91,0:19:30.46,Kara,,0,0,0,,{\k38}testing {\k1}{\k45}ground {\k53}{\k29}God {\k1}{\k43}creates {\k1}{\k8}the
+Dialogue: 0,0:19:30.12,0:19:32.67,Kara,,0,0,0,,{\k62}entire {\k1}{\k39}earth {\k30}{\k16}but {\k1}{\k22}then {\k1}{\k46}creates
+Dialogue: 0,0:19:32.34,0:19:34.84,Kara,,0,0,0,,{\k39}one {\k1}{\k56}special {\k1}{\k43}region {\k43}{\k30}Eden
+Dialogue: 0,0:19:34.83,0:19:37.24,Kara,,0,0,0,,{\k15}where {\k1}{\k60}conditions {\k1}{\k8}are {\k1}{\k60}perfect {\k45}{\k15}This
+Dialogue: 0,0:19:36.90,0:19:39.12,Kara,,0,0,0,,{\k12}is {\k1}{\k80}localhost {\k46}{\k23}This {\k1}{\k11}is {\k1}{\k10}the
+Dialogue: 0,0:19:38.78,0:19:41.04,Kara,,0,0,0,,{\k56}development {\k1}{\k48}server {\k45}{\k20}This {\k1}{\k11}is {\k1}{\k8}the
+Dialogue: 0,0:19:40.71,0:19:42.97,Kara,,0,0,0,,{\k69}environment {\k1}{\k22}where {\k16}{\k49}everything {\k1}{\k33}works
+Dialogue: 0,0:19:42.64,0:19:45.20,Kara,,0,0,0,,{\k75}exactly {\k1}{\k11}as {\k1}{\k58}intended {\k45}{\k13}And {\k1}{\k15}out
+Dialogue: 0,0:19:44.87,0:19:46.40,Kara,,0,0,0,,{\k7}of {\k1}{\k8}the {\k1}{\k50}ground {\k16}{\k22}made {\k1}{\k11}the
+Dialogue: 0,0:19:46.06,0:19:48.15,Kara,,0,0,0,,{\k39}Lord {\k1}{\k34}God {\k1}{\k9}to {\k1}{\k37}grow {\k15}{\k35}every
+Dialogue: 0,0:19:47.81,0:19:49.62,Kara,,0,0,0,,{\k52}tree {\k1}{\k15}that {\k1}{\k12}is {\k1}{\k52}pleasant {\k1}{\k10}to
+Dialogue: 0,0:19:49.28,0:19:51.14,Kara,,0,0,0,,{\k10}the {\k1}{\k49}sight {\k35}{\k11}and {\k1}{\k26}good {\k1}{\k16}for
+Dialogue: 0,0:19:50.80,0:19:53.25,Kara,,0,0,0,,{\k43}food {\k45}{\k27}Every {\k1}{\k46}tree {\k1}{\k15}is {\k1}{\k28}both
+Dialogue: 0,0:19:52.91,0:19:55.47,Kara,,0,0,0,,{\k68}aesthetically {\k1}{\k61}pleasing {\k29}{\k23}good {\k1}{\k38}UI
+Dialogue: 0,0:19:55.14,0:19:57.42,Kara,,0,0,0,,{\k39}/ {\k1}{\k59}UX {\k23}{\k8}and {\k1}{\k61}functional
+Dialogue: 0,0:19:57.35,0:19:59.59,Kara,,0,0,0,,{\k39}provides {\k1}{\k52}nutrition {\k65}{\k23}Form {\k1}{\k7}and
+Dialogue: 0,0:19:59.26,0:20:01.78,Kara,,0,0,0,,{\k50}function {\k46}{\k41}Beauty {\k8}{\k10}and {\k1}{\k61}utility
+Dialogue: 0,0:20:01.89,0:20:04.03,Kara,,0,0,0,,{\k18}This {\k1}{\k16}is {\k1}{\k38}elegant {\k1}{\k45}design {\k46}{\k12}But
+Dialogue: 0,0:20:03.70,0:20:06.25,Kara,,0,0,0,,{\k28}then {\k27}{\k22}two {\k1}{\k38}special {\k1}{\k49}trees {\k46}{\k7}The
+Dialogue: 0,0:20:05.91,0:20:07.73,Kara,,0,0,0,,{\k30}tree {\k1}{\k12}of {\k1}{\k39}life {\k7}{\k43}also {\k1}{\k11}in
+Dialogue: 0,0:20:07.39,0:20:08.87,Kara,,0,0,0,,{\k7}the {\k1}{\k45}midst {\k1}{\k7}of {\k1}{\k8}the {\k1}{\k41}garden
+Dialogue: 0,0:20:08.93,0:20:10.39,Kara,,0,0,0,,{\k5}and {\k1}{\k8}the {\k1}{\k34}tree {\k1}{\k8}of {\k1}{\k50}knowledge
+Dialogue: 0,0:20:10.06,0:20:12.35,Kara,,0,0,0,,{\k14}of {\k1}{\k39}good {\k22}{\k16}and {\k1}{\k41}evil {\k45}{\k15}Two
+Dialogue: 0,0:20:12.01,0:20:14.24,Kara,,0,0,0,,{\k53}trees {\k46}{\k14}Two {\k1}{\k37}critical {\k1}{\k35}system
+Dialogue: 0,0:20:13.90,0:20:16.52,Kara,,0,0,0,,{\k53}files {\k45}{\k27}Tree {\k1}{\k11}of {\k1}{\k48}Life {\k31}{\k10}The
+Dialogue: 0,0:20:16.18,0:20:18.08,Kara,,0,0,0,,{\k54}eternal {\k1}{\k43}uptime {\k1}{\k54}module
+Dialogue: 0,0:20:18.18,0:20:20.51,Kara,,0,0,0,,{\k52}Access {\k1}{\k12}to {\k1}{\k26}this {\k1}{\k39}tree {\k15}{\k50}=
+Dialogue: 0,0:20:20.30,0:20:22.29,Kara,,0,0,0,,{\k95}immortality {\k35}{\k34}endless
+Dialogue: 0,0:20:21.96,0:20:24.28,Kara,,0,0,0,,{\k77}existence {\k31}{\k26}no {\k1}{\k61}process
+Dialogue: 0,0:20:23.94,0:20:26.52,Kara,,0,0,0,,{\k73}termination {\k45}{\k23}Tree {\k1}{\k8}of {\k1}{\k49}Knowledge {\k1}{\k20}of
+Dialogue: 0,0:20:26.18,0:20:28.45,Kara,,0,0,0,,{\k35}Good {\k12}{\k20}and {\k1}{\k38}Evil {\k34}{\k8}The {\k1}{\k41}moral
+Dialogue: 0,0:20:28.11,0:20:30.38,Kara,,0,0,0,,{\k49}operating {\k1}{\k45}system {\k46}{\k8}The {\k1}{\k41}ethical
+Dialogue: 0,0:20:30.04,0:20:32.65,Kara,,0,0,0,,{\k61}framework {\k45}{\k7}The {\k1}{\k48}module {\k1}{\k14}that {\k1}{\k47}enables
+Dialogue: 0,0:20:32.31,0:20:34.64,Kara,,0,0,0,,{\k83}understanding {\k1}{\k12}of {\k1}{\k30}right {\k14}{\k14}and {\k1}{\k42}wrong
+Dialogue: 0,0:20:34.74,0:20:37.05,Kara,,0,0,0,,{\k10}And {\k1}{\k38}God {\k1}{\k26}gives {\k1}{\k64}humanity {\k1}{\k53}access
+Dialogue: 0,0:20:36.71,0:20:39.13,Kara,,0,0,0,,{\k12}to {\k1}{\k56}everything {\k34}{\k42}except {\k1}{\k22}one {\k1}{\k37}thing
+Dialogue: 0,0:20:39.23,0:20:40.99,Kara,,0,0,0,,{\k8}And {\k1}{\k9}the {\k1}{\k34}Lord {\k1}{\k33}God {\k1}{\k52}commanded
+Dialogue: 0,0:20:40.65,0:20:43.37,Kara,,0,0,0,,{\k7}the {\k1}{\k43}man {\k41}{\k46}saying {\k42}{\k12}Of {\k12}{\k31}every
+Dialogue: 0,0:20:43.03,0:20:44.69,Kara,,0,0,0,,{\k39}tree {\k1}{\k8}of {\k1}{\k8}the {\k1}{\k45}garden {\k8}{\k18}thou
+Dialogue: 0,0:20:44.35,0:20:47.01,Kara,,0,0,0,,{\k68}mayest {\k1}{\k62}freely {\k1}{\k31}eat {\k45}{\k14}But {\k1}{\k7}of
+Dialogue: 0,0:20:46.67,0:20:48.15,Kara,,0,0,0,,{\k8}the {\k1}{\k34}tree {\k1}{\k8}of {\k1}{\k7}the {\k1}{\k50}knowledge
+Dialogue: 0,0:20:47.81,0:20:50.16,Kara,,0,0,0,,{\k16}of {\k1}{\k35}good {\k18}{\k24}and {\k8}{\k39}evil {\k41}{\k16}thou
+Dialogue: 0,0:20:49.83,0:20:51.52,Kara,,0,0,0,,{\k42}shalt {\k1}{\k29}not {\k14}{\k18}eat {\k1}{\k12}of {\k1}{\k16}it
+Dialogue: 0,0:20:51.63,0:20:52.77,Kara,,0,0,0,,{\k15}for {\k1}{\k7}in {\k1}{\k10}the {\k1}{\k26}day {\k1}{\k16}that
+Dialogue: 0,0:20:52.43,0:20:54.61,Kara,,0,0,0,,{\k26}thou {\k7}{\k42}eatest {\k1}{\k50}thereof {\k1}{\k15}thou {\k1}{\k38}shalt
+Dialogue: 0,0:20:54.27,0:20:56.74,Kara,,0,0,0,,{\k43}surely {\k1}{\k39}die {\k46}{\k18}One {\k1}{\k62}restriction
+Dialogue: 0,0:20:56.85,0:20:59.45,Kara,,0,0,0,,{\k18}One {\k1}{\k38}forbidden {\k1}{\k42}file {\k45}{\k38}sudo {\k1}{\k41}chmod
+Dialogue: 0,0:20:59.12,0:21:01.55,Kara,,0,0,0,,{\k122}000 {\k39}{\k46}/
+Dialogue: 0,0:21:01.21,0:21:03.54,Kara,,0,0,0,,{\k90}tree-of-knowledge {\k45}{\k10}You {\k1}{\k30}have {\k1}{\k22}read
+Dialogue: 0,0:21:03.21,0:21:05.62,Kara,,0,0,0,,{\k48}/ {\k1}{\k27}write {\k1}{\k57}access {\k1}{\k12}to {\k7}{\k52}everything
+Dialogue: 0,0:21:05.29,0:21:06.86,Kara,,0,0,0,,{\k7}in {\k1}{\k8}the {\k1}{\k41}garden {\k45}{\k10}All {\k1}{\k8}the
+Dialogue: 0,0:21:06.52,0:21:08.86,Kara,,0,0,0,,{\k53}trees {\k45}{\k12}All {\k1}{\k7}the {\k1}{\k79}resources
+Dialogue: 0,0:21:08.96,0:21:10.91,Kara,,0,0,0,,{\k12}All {\k1}{\k9}the {\k1}{\k39}fruit {\k45}{\k33}Except {\k1}{\k18}this
+Dialogue: 0,0:21:10.57,0:21:12.76,Kara,,0,0,0,,{\k23}one {\k46}{\k16}This {\k1}{\k18}one {\k1}{\k50}file {\k15}{\k12}is
+Dialogue: 0,0:21:12.42,0:21:14.84,Kara,,0,0,0,,{\k67}root-only {\k46}{\k20}This {\k1}{\k23}one {\k1}{\k48}module
+Dialogue: 0,0:21:14.50,0:21:16.57,Kara,,0,0,0,,{\k48}requires {\k1}{\k62}permissions {\k1}{\k10}you {\k1}{\k26}don't {\k1}{\k22}have
+Dialogue: 0,0:21:16.24,0:21:18.91,Kara,,0,0,0,,{\k31}yet {\k45}{\k30}Why {\k46}{\k31}Because {\k1}{\k48}knowledge
+Dialogue: 0,0:21:18.58,0:21:20.84,Kara,,0,0,0,,{\k14}of {\k1}{\k37}good {\k15}{\k20}and {\k14}{\k37}evil {\k1}{\k53}requires
+Dialogue: 0,0:21:20.51,0:21:23.06,Kara,,0,0,0,,{\k60}maturity {\k45}{\k44}Requires {\k1}{\k71}context
+Dialogue: 0,0:21:23.15,0:21:25.30,Kara,,0,0,0,,{\k53}Requires {\k1}{\k12}the {\k1}{\k56}ability {\k1}{\k11}to {\k1}{\k42}handle
+Dialogue: 0,0:21:24.96,0:21:27.05,Kara,,0,0,0,,{\k11}the {\k1}{\k67}cognitive {\k1}{\k39}load {\k10}{\k11}of {\k1}{\k33}moral
+Dialogue: 0,0:21:26.71,0:21:29.37,Kara,,0,0,0,,{\k68}awareness {\k45}{\k4}A {\k1}{\k35}child {\k1}{\k24}can't {\k1}{\k50}process
+Dialogue: 0,0:21:29.04,0:21:31.60,Kara,,0,0,0,,{\k48}complex {\k1}{\k52}ethics {\k43}{\k3}A {\k1}{\k18}new {\k1}{\k54}developer
+Dialogue: 0,0:21:31.37,0:21:33.75,Kara,,0,0,0,,{\k38}shouldn't {\k1}{\k15}be {\k1}{\k29}given {\k1}{\k57}production {\k1}{\k58}database
+Dialogue: 0,0:21:33.45,0:21:36.00,Kara,,0,0,0,,{\k57}access {\k1}{\k12}on {\k1}{\k22}day {\k1}{\k33}one {\k46}{\k46}Permissions
+Dialogue: 0,0:21:35.67,0:21:37.81,Kara,,0,0,0,,{\k8}are {\k1}{\k62}protective {\k29}{\k19}not {\k1}{\k58}punitive
+Dialogue: 0,0:21:37.91,0:21:39.73,Kara,,0,0,0,,{\k22}God {\k1}{\k12}is {\k1}{\k48}saying {\k29}{\k10}You're {\k1}{\k23}not
+Dialogue: 0,0:21:39.39,0:21:42.06,Kara,,0,0,0,,{\k20}ready {\k1}{\k34}yet {\k45}{\k26}Trust {\k1}{\k18}me {\k45}{\k42}Everything
+Dialogue: 0,0:21:41.73,0:21:43.86,Kara,,0,0,0,,{\k27}else {\k1}{\k14}is {\k1}{\k54}yours {\k45}{\k15}Just {\k1}{\k19}not
+Dialogue: 0,0:21:43.52,0:21:46.11,Kara,,0,0,0,,{\k34}this {\k45}{\k19}Not {\k1}{\k35}yet {\k46}{\k11}And {\k1}{\k31}then
+Dialogue: 0,0:21:46.02,0:21:47.86,Kara,,0,0,0,,{\k10}the {\k1}{\k33}first {\k1}{\k34}job {\k51}{\k8}And {\k1}{\k10}the
+Dialogue: 0,0:21:47.52,0:21:49.42,Kara,,0,0,0,,{\k33}Lord {\k1}{\k43}God {\k3}{\k23}took {\k1}{\k8}the {\k1}{\k41}man
+Dialogue: 0,0:21:49.50,0:21:50.57,Kara,,0,0,0,,{\k8}and {\k1}{\k19}put {\k1}{\k11}him {\k1}{\k18}into {\k1}{\k11}the
+Dialogue: 0,0:21:50.24,0:21:52.12,Kara,,0,0,0,,{\k41}garden {\k1}{\k12}of {\k14}{\k30}Eden {\k1}{\k10}to {\k1}{\k43}dress
+Dialogue: 0,0:21:51.79,0:21:53.55,Kara,,0,0,0,,{\k20}it {\k49}{\k8}and {\k1}{\k10}to {\k1}{\k30}keep {\k1}{\k20}it
+Dialogue: 0,0:21:53.65,0:21:55.87,Kara,,0,0,0,,{\k24}Human {\k1}{\k22}work {\k1}{\k62}begins {\k45}{\k18}Not {\k1}{\k12}as
+Dialogue: 0,0:21:55.54,0:21:58.07,Kara,,0,0,0,,{\k60}curse {\k26}{\k16}that {\k1}{\k27}comes {\k1}{\k39}later {\k33}{\k15}but
+Dialogue: 0,0:21:57.74,0:21:59.91,Kara,,0,0,0,,{\k14}as {\k1}{\k67}purpose {\k53}{\k22}Dress {\k8}{\k18}it
+Dialogue: 0,0:22:00.10,0:22:02.22,Kara,,0,0,0,,{\k27}avad {\k1}{\k10}in {\k1}{\k49}Hebrew {\k33}{\k11}to {\k1}{\k43}work
+Dialogue: 0,0:22:02.15,0:22:04.74,Kara,,0,0,0,,{\k11}to {\k1}{\k53}serve {\k23}{\k11}to {\k1}{\k64}cultivate {\k53}{\k7}Keep
+Dialogue: 0,0:22:04.48,0:22:06.97,Kara,,0,0,0,,{\k18}it {\k54}{\k49}shamar {\k41}{\k11}to {\k1}{\k41}guard
+Dialogue: 0,0:22:07.02,0:22:09.76,Kara,,0,0,0,,{\k11}to {\k1}{\k54}protect {\k23}{\k11}to {\k1}{\k61}maintain {\k45}{\k31}Adam
+Dialogue: 0,0:22:09.48,0:22:11.66,Kara,,0,0,0,,{\k11}is {\k1}{\k11}the {\k1}{\k48}first {\k1}{\k30}site {\k1}{\k79}reliability
+Dialogue: 0,0:22:11.32,0:22:13.90,Kara,,0,0,0,,{\k56}engineer {\k46}{\k5}The {\k1}{\k34}first {\k1}{\k43}DevOps {\k1}{\k34}lead
+Dialogue: 0,0:22:14.00,0:22:16.09,Kara,,0,0,0,,{\k29}God {\k1}{\k20}built {\k1}{\k8}the {\k1}{\k45}system {\k45}{\k23}Adam
+Dialogue: 0,0:22:15.75,0:22:17.67,Kara,,0,0,0,,{\k53}maintains {\k1}{\k18}it {\k45}{\k15}And {\k1}{\k15}out {\k1}{\k7}of
+Dialogue: 0,0:22:17.33,0:22:19.12,Kara,,0,0,0,,{\k8}the {\k1}{\k45}ground {\k1}{\k10}the {\k1}{\k39}Lord {\k1}{\k37}God
+Dialogue: 0,0:22:18.78,0:22:20.78,Kara,,0,0,0,,{\k45}formed {\k16}{\k39}every {\k8}{\k37}beast {\k1}{\k8}of {\k1}{\k8}the
+Dialogue: 0,0:22:20.44,0:22:22.69,Kara,,0,0,0,,{\k50}field {\k30}{\k18}and {\k1}{\k31}every {\k1}{\k48}fowl {\k1}{\k10}of
+Dialogue: 0,0:22:22.36,0:22:24.26,Kara,,0,0,0,,{\k10}the {\k1}{\k41}air {\k46}{\k7}and {\k1}{\k31}brought {\k1}{\k16}them
+Dialogue: 0,0:22:23.99,0:22:25.74,Kara,,0,0,0,,{\k34}unto {\k1}{\k38}Adam {\k1}{\k8}to {\k1}{\k39}see {\k1}{\k15}what
+Dialogue: 0,0:22:25.40,0:22:27.12,Kara,,0,0,0,,{\k10}he {\k1}{\k16}would {\k1}{\k31}call {\k1}{\k19}them {\k49}{\k8}and
+Dialogue: 0,0:22:26.79,0:22:29.38,Kara,,0,0,0,,{\k71}whatsoever {\k1}{\k34}Adam {\k1}{\k34}called {\k18}{\k31}every {\k1}{\k33}living
+Dialogue: 0,0:22:29.04,0:22:30.99,Kara,,0,0,0,,{\k46}creature {\k41}{\k16}that {\k1}{\k12}was {\k1}{\k8}the {\k1}{\k33}name
+Dialogue: 0,0:22:30.66,0:22:32.75,Kara,,0,0,0,,{\k56}thereof {\k45}{\k23}God {\k1}{\k38}creates {\k1}{\k9}the
+Dialogue: 0,0:22:32.41,0:22:34.85,Kara,,0,0,0,,{\k65}animals {\k46}{\k11}But {\k1}{\k31}God {\k1}{\k29}doesn't {\k1}{\k23}name
+Dialogue: 0,0:22:34.52,0:22:36.48,Kara,,0,0,0,,{\k19}them {\k45}{\k30}God {\k1}{\k33}brings {\k1}{\k18}them {\k1}{\k14}to
+Dialogue: 0,0:22:36.15,0:22:38.52,Kara,,0,0,0,,{\k41}Adam {\k24}{\k8}and {\k1}{\k49}says {\k31}{\k16}You {\k1}{\k30}name
+Dialogue: 0,0:22:38.19,0:22:40.21,Kara,,0,0,0,,{\k22}them {\k48}{\k16}This {\k1}{\k11}is {\k1}{\k68}profound
+Dialogue: 0,0:22:40.31,0:22:42.65,Kara,,0,0,0,,{\k29}God {\k1}{\k49}delegates {\k1}{\k8}the {\k1}{\k39}naming {\k45}{\k26}God
+Dialogue: 0,0:22:42.32,0:22:44.04,Kara,,0,0,0,,{\k29}gives {\k1}{\k31}Adam {\k1}{\k11}the {\k1}{\k46}power {\k1}{\k15}to
+Dialogue: 0,0:22:43.70,0:22:46.44,Kara,,0,0,0,,{\k46}assign {\k1}{\k88}identifiers {\k45}{\k8}To {\k1}{\k38}create {\k1}{\k10}the
+Dialogue: 0,0:22:46.11,0:22:48.48,Kara,,0,0,0,,{\k56}API {\k46}{\k5}To {\k1}{\k53}determine {\k1}{\k18}how {\k1}{\k20}these
+Dialogue: 0,0:22:48.14,0:22:50.59,Kara,,0,0,0,,{\k49}creatures {\k1}{\k12}will {\k1}{\k12}be {\k1}{\k68}referenced {\k46}{\k18}This
+Dialogue: 0,0:22:50.25,0:22:52.61,Kara,,0,0,0,,{\k14}is {\k1}{\k48}God {\k5}{\k30}giving {\k1}{\k44}humans {\k1}{\k57}co-creator
+Dialogue: 0,0:22:52.28,0:22:54.15,Kara,,0,0,0,,{\k65}status {\k45}{\k7}You {\k1}{\k11}want {\k1}{\k4}to {\k1}{\k16}name
+Dialogue: 0,0:22:53.81,0:22:55.72,Kara,,0,0,0,,{\k3}a {\k1}{\k15}new {\k1}{\k43}star {\k45}{\k11}Go {\k1}{\k35}ahead
+Dialogue: 0,0:22:55.78,0:22:57.19,Kara,,0,0,0,,{\k10}you're {\k1}{\k19}made {\k1}{\k7}in {\k1}{\k14}my {\k1}{\k52}image
+Dialogue: 0,0:22:57.29,0:22:58.14,Kara,,0,0,0,,{\k7}You {\k1}{\k12}want {\k1}{\k4}to {\k1}{\k19}name {\k1}{\k3}a
+Dialogue: 0,0:22:57.81,0:23:00.22,Kara,,0,0,0,,{\k12}new {\k1}{\k72}species {\k46}{\k7}Be {\k1}{\k15}my {\k1}{\k50}guest
+Dialogue: 0,0:23:00.29,0:23:02.07,Kara,,0,0,0,,{\k5}I {\k1}{\k22}gave {\k1}{\k8}you {\k1}{\k50}dominion {\k45}{\k8}You
+Dialogue: 0,0:23:01.73,0:23:02.80,Kara,,0,0,0,,{\k11}want {\k1}{\k4}to {\k1}{\k20}name {\k1}{\k3}a {\k1}{\k29}new
+Dialogue: 0,0:23:02.47,0:23:05.06,Kara,,0,0,0,,{\k71}algorithm {\k39}{\k1}a {\k1}{\k26}new {\k1}{\k62}framework {\k19}{\k3}a
+Dialogue: 0,0:23:04.72,0:23:07.31,Kara,,0,0,0,,{\k18}new {\k1}{\k71}technology {\k45}{\k14}Do {\k1}{\k15}it {\k46}{\k14}That's
+Dialogue: 0,0:23:06.98,0:23:08.66,Kara,,0,0,0,,{\k15}why {\k1}{\k5}I {\k1}{\k28}made {\k1}{\k18}you {\k45}{\k18}God
+Dialogue: 0,0:23:08.32,0:23:10.36,Kara,,0,0,0,,{\k60}creates {\k48}{\k29}Humans {\k1}{\k31}name
+Dialogue: 0,0:23:10.45,0:23:13.12,Kara,,0,0,0,,{\k45}Together {\k30}{\k12}they {\k1}{\k27}build {\k1}{\k61}reality {\k45}{\k8}And
+Dialogue: 0,0:23:12.78,0:23:14.55,Kara,,0,0,0,,{\k11}the {\k1}{\k38}Lord {\k1}{\k38}God {\k1}{\k41}caused {\k1}{\k10}a
+Dialogue: 0,0:23:14.29,0:23:16.20,Kara,,0,0,0,,{\k29}deep {\k1}{\k45}sleep {\k1}{\k11}to {\k1}{\k34}fall {\k1}{\k33}upon
+Dialogue: 0,0:23:15.86,0:23:18.28,Kara,,0,0,0,,{\k35}Adam {\k41}{\k6}and {\k1}{\k11}he {\k1}{\k52}slept {\k52}{\k8}and
+Dialogue: 0,0:23:17.94,0:23:19.11,Kara,,0,0,0,,{\k12}he {\k1}{\k26}took {\k1}{\k16}one {\k1}{\k7}of {\k1}{\k15}his
+Dialogue: 0,0:23:18.77,0:23:20.64,Kara,,0,0,0,,{\k52}ribs {\k20}{\k15}and {\k1}{\k41}closed {\k1}{\k11}up {\k1}{\k10}the
+Dialogue: 0,0:23:20.31,0:23:22.92,Kara,,0,0,0,,{\k49}flesh {\k1}{\k60}instead {\k1}{\k53}thereof {\k43}{\k7}And {\k1}{\k11}the
+Dialogue: 0,0:23:22.59,0:23:24.68,Kara,,0,0,0,,{\k37}rib {\k35}{\k20}which {\k1}{\k11}the {\k1}{\k35}Lord {\k1}{\k31}God
+Dialogue: 0,0:23:24.34,0:23:26.36,Kara,,0,0,0,,{\k15}had {\k1}{\k35}taken {\k1}{\k19}from {\k1}{\k35}man {\k41}{\k18}made
+Dialogue: 0,0:23:26.03,0:23:27.84,Kara,,0,0,0,,{\k15}he {\k1}{\k8}a {\k1}{\k37}woman {\k43}{\k8}and {\k1}{\k31}brought
+Dialogue: 0,0:23:27.51,0:23:29.50,Kara,,0,0,0,,{\k23}her {\k8}{\k16}unto {\k1}{\k8}the {\k1}{\k39}man {\k45}{\k22}Adam
+Dialogue: 0,0:23:29.16,0:23:31.47,Kara,,0,0,0,,{\k20}needs {\k1}{\k5}a {\k1}{\k50}partner {\k45}{\k5}A {\k1}{\k65}complement
+Dialogue: 0,0:23:31.57,0:23:33.58,Kara,,0,0,0,,{\k10}An {\k1}{\k41}equal {\k46}{\k11}But {\k1}{\k11}to {\k1}{\k44}create
+Dialogue: 0,0:23:33.24,0:23:35.71,Kara,,0,0,0,,{\k45}Eve {\k30}{\k26}God {\k1}{\k27}must {\k1}{\k45}suspend {\k1}{\k35}Adam
+Dialogue: 0,0:23:35.89,0:23:38.58,Kara,,0,0,0,,{\k5}A {\k26}deep {\k1}{\k52}sleep {\k31}{\k64}tardemah {\k33}{\k22}not
+Dialogue: 0,0:23:38.24,0:23:40.10,Kara,,0,0,0,,{\k42}regular {\k1}{\k42}sleep {\k45}{\k20}Deep
+Dialogue: 0,0:23:39.76,0:23:42.23,Kara,,0,0,0,,{\k95}unconsciousness {\k45}{\k72}Anesthesia
+Dialogue: 0,0:23:42.34,0:23:45.02,Kara,,0,0,0,,{\k41}Process {\k1}{\k64}suspension {\k45}{\k24}God {\k1}{\k23}puts {\k1}{\k31}Adam
+Dialogue: 0,0:23:44.68,0:23:46.88,Kara,,0,0,0,,{\k15}into {\k1}{\k33}sleep {\k1}{\k35}mode {\k46}{\k35}Pauses {\k1}{\k16}his
+Dialogue: 0,0:23:46.54,0:23:49.00,Kara,,0,0,0,,{\k71}execution {\k45}{\k39}Suspends {\k1}{\k15}his {\k1}{\k38}thread
+Dialogue: 0,0:23:49.10,0:23:51.25,Kara,,0,0,0,,{\k30}Why {\k46}{\k31}Because {\k1}{\k31}God {\k1}{\k10}is {\k1}{\k29}about
+Dialogue: 0,0:23:50.92,0:23:53.21,Kara,,0,0,0,,{\k7}to {\k1}{\k30}fork {\k1}{\k8}the {\k1}{\k69}process {\k52}{\k25}God
+Dialogue: 0,0:23:52.88,0:23:54.87,Kara,,0,0,0,,{\k30}takes {\k1}{\k5}a {\k1}{\k37}rib {\k33}{\k46}tsela {\k1}{\k10}in
+Dialogue: 0,0:23:54.54,0:23:56.69,Kara,,0,0,0,,{\k50}Hebrew {\k33}{\k16}which {\k1}{\k15}can {\k1}{\k30}mean {\k1}{\k33}rib
+Dialogue: 0,0:23:56.51,0:23:58.61,Kara,,0,0,0,,{\k14}or {\k1}{\k54}side {\k42}{\k6}and {\k1}{\k16}from {\k1}{\k39}Adam's
+Dialogue: 0,0:23:58.27,0:24:00.66,Kara,,0,0,0,,{\k15}own {\k1}{\k53}structure {\k30}{\k29}God {\k1}{\k34}builds {\k1}{\k39}Eve
+Dialogue: 0,0:24:00.76,0:24:02.94,Kara,,0,0,0,,{\k19}This {\k1}{\k12}is {\k1}{\k48}cloning {\k1}{\k15}with {\k1}{\k84}modification
+Dialogue: 0,0:24:03.04,0:24:04.79,Kara,,0,0,0,,{\k23}This {\k1}{\k12}is {\k1}{\k57}copying {\k1}{\k11}the {\k1}{\k31}base
+Dialogue: 0,0:24:04.45,0:24:07.05,Kara,,0,0,0,,{\k57}class {\k15}{\k11}and {\k1}{\k50}creating {\k1}{\k5}a {\k1}{\k81}complementary
+Dialogue: 0,0:24:06.71,0:24:09.23,Kara,,0,0,0,,{\k86}implementation {\k45}{\k18}Eve {\k1}{\k12}is {\k1}{\k29}not {\k1}{\k25}made
+Dialogue: 0,0:24:08.90,0:24:10.43,Kara,,0,0,0,,{\k16}from {\k1}{\k7}the {\k1}{\k35}ground {\k1}{\k18}like {\k5}{\k33}Adam
+Dialogue: 0,0:24:10.53,0:24:11.88,Kara,,0,0,0,,{\k16}Eve {\k1}{\k10}is {\k1}{\k20}made {\k1}{\k16}from {\k1}{\k33}Adam
+Dialogue: 0,0:24:11.99,0:24:13.73,Kara,,0,0,0,,{\k10}From {\k1}{\k14}his {\k1}{\k15}own {\k1}{\k37}code {\k46}{\k14}His
+Dialogue: 0,0:24:13.39,0:24:15.55,Kara,,0,0,0,,{\k14}own {\k1}{\k57}structure {\k45}{\k9}And {\k1}{\k16}when {\k1}{\k35}Adam
+Dialogue: 0,0:24:15.21,0:24:17.09,Kara,,0,0,0,,{\k29}wakes {\k1}{\k19}from {\k1}{\k43}sleep {\k10}{\k10}and {\k1}{\k38}sees
+Dialogue: 0,0:24:16.75,0:24:19.27,Kara,,0,0,0,,{\k23}her {\k42}{\k10}he {\k1}{\k54}says {\k45}{\k27}This {\k1}{\k14}is
+Dialogue: 0,0:24:18.94,0:24:20.99,Kara,,0,0,0,,{\k30}now {\k1}{\k43}bone {\k1}{\k8}of {\k1}{\k18}my {\k1}{\k65}bones
+Dialogue: 0,0:24:20.83,0:24:22.63,Kara,,0,0,0,,{\k12}and {\k1}{\k41}flesh {\k1}{\k8}of {\k1}{\k16}my {\k1}{\k62}flesh
+Dialogue: 0,0:24:22.78,0:24:24.27,Kara,,0,0,0,,{\k14}she {\k1}{\k16}shall {\k1}{\k11}be {\k1}{\k33}called {\k1}{\k35}Woman
+Dialogue: 0,0:24:24.32,0:24:25.85,Kara,,0,0,0,,{\k30}because {\k1}{\k12}she {\k1}{\k19}was {\k1}{\k39}taken {\k1}{\k12}out
+Dialogue: 0,0:24:25.51,0:24:27.90,Kara,,0,0,0,,{\k10}of {\k1}{\k38}Man {\k45}{\k29}Adam {\k1}{\k80}recognizes
+Dialogue: 0,0:24:27.87,0:24:29.60,Kara,,0,0,0,,{\k20}this {\k1}{\k11}is {\k1}{\k26}not {\k1}{\k33}another {\k1}{\k43}animal
+Dialogue: 0,0:24:29.70,0:24:31.23,Kara,,0,0,0,,{\k14}This {\k1}{\k12}is {\k1}{\k19}me {\k45}{\k14}This {\k1}{\k11}is
+Dialogue: 0,0:24:30.89,0:24:32.67,Kara,,0,0,0,,{\k18}my {\k1}{\k14}own {\k1}{\k38}code {\k45}{\k14}This {\k1}{\k11}is
+Dialogue: 0,0:24:32.34,0:24:34.29,Kara,,0,0,0,,{\k18}my {\k1}{\k41}equal {\k53}{\k12}Bone {\k8}{\k8}of {\k1}{\k18}my
+Dialogue: 0,0:24:33.95,0:24:36.43,Kara,,0,0,0,,{\k65}bones {\k18}{\k35}flesh {\k1}{\k7}of {\k1}{\k16}my {\k1}{\k68}flesh
+Dialogue: 0,0:24:36.40,0:24:38.46,Kara,,0,0,0,,{\k22}this {\k1}{\k12}is {\k1}{\k35}source {\k1}{\k30}code {\k1}{\k66}recognition
+Dialogue: 0,0:24:38.57,0:24:40.05,Kara,,0,0,0,,{\k19}This {\k1}{\k12}is {\k1}{\k33}seeing {\k1}{\k22}your {\k1}{\k22}own
+Dialogue: 0,0:24:39.71,0:24:42.43,Kara,,0,0,0,,{\k42}class {\k1}{\k42}structure {\k1}{\k58}reflected {\k46}{\k26}She {\k1}{\k18}is
+Dialogue: 0,0:24:42.09,0:24:44.78,Kara,,0,0,0,,{\k44}ishah {\k50}{\k35}woman {\k33}{\k27}because {\k1}{\k15}she {\k1}{\k27}came
+Dialogue: 0,0:24:44.44,0:24:47.03,Kara,,0,0,0,,{\k20}from {\k11}{\k42}ish {\k20}{\k49}man {\k57}{\k24}Same
+Dialogue: 0,0:24:46.70,0:24:49.31,Kara,,0,0,0,,{\k29}root {\k46}{\k29}Same {\k14}{\k43}origin {\k45}{\k22}Same
+Dialogue: 0,0:24:48.98,0:24:51.60,Kara,,0,0,0,,{\k67}codebase {\k45}{\k7}And {\k1}{\k7}the {\k1}{\k48}narrator {\k1}{\k50}adds
+Dialogue: 0,0:24:51.71,0:24:53.53,Kara,,0,0,0,,{\k42}Therefore {\k1}{\k27}shall {\k1}{\k4}a {\k1}{\k45}man {\k1}{\k23}leave
+Dialogue: 0,0:24:53.19,0:24:55.05,Kara,,0,0,0,,{\k18}his {\k1}{\k58}father {\k7}{\k6}and {\k1}{\k15}his {\k1}{\k44}mother
+Dialogue: 0,0:24:55.13,0:24:56.77,Kara,,0,0,0,,{\k4}and {\k1}{\k23}shall {\k1}{\k50}cleave {\k12}{\k22}unto {\k1}{\k14}his
+Dialogue: 0,0:24:56.44,0:24:58.35,Kara,,0,0,0,,{\k45}wife {\k48}{\k10}and {\k1}{\k15}they {\k1}{\k20}shall {\k1}{\k15}be
+Dialogue: 0,0:24:58.01,0:25:00.31,Kara,,0,0,0,,{\k27}one {\k1}{\k69}flesh {\k45}{\k52}Marriage
+Dialogue: 0,0:25:00.41,0:25:02.92,Kara,,0,0,0,,{\k5}The {\k1}{\k53}merge {\k46}{\k16}Two {\k1}{\k45}branches {\k1}{\k46}becoming
+Dialogue: 0,0:25:02.58,0:25:05.06,Kara,,0,0,0,,{\k25}one {\k1}{\k79}codebase {\k45}{\k12}Git {\k1}{\k50}merge
+Dialogue: 0,0:25:05.17,0:25:07.82,Kara,,0,0,0,,{\k22}Two {\k1}{\k58}independent {\k1}{\k48}forks {\k1}{\k72}combining {\k1}{\k24}into
+Dialogue: 0,0:25:07.48,0:25:10.03,Kara,,0,0,0,,{\k57}unified {\k1}{\k86}repository {\k45}{\k14}Not {\k1}{\k16}one
+Dialogue: 0,0:25:09.70,0:25:12.30,Kara,,0,0,0,,{\k46}person {\k46}{\k11}But {\k1}{\k22}one {\k1}{\k38}unit {\k45}{\k15}One
+Dialogue: 0,0:25:11.97,0:25:14.64,Kara,,0,0,0,,{\k45}system {\k46}{\k14}One {\k1}{\k62}partnership {\k46}{\k18}Two
+Dialogue: 0,0:25:14.31,0:25:16.53,Kara,,0,0,0,,{\k68}processes {\k1}{\k45}running {\k1}{\k14}in {\k1}{\k57}perfect
+Dialogue: 0,0:25:16.19,0:25:18.58,Kara,,0,0,0,,{\k86}synchronization {\k45}{\k7}And {\k1}{\k12}they {\k1}{\k15}were {\k1}{\k35}both
+Dialogue: 0,0:25:18.24,0:25:20.12,Kara,,0,0,0,,{\k48}naked {\k38}{\k8}the {\k1}{\k34}man {\k1}{\k7}and {\k1}{\k14}his
+Dialogue: 0,0:25:19.78,0:25:21.92,Kara,,0,0,0,,{\k48}wife {\k31}{\k8}and {\k1}{\k10}were {\k1}{\k19}not {\k1}{\k60}ashamed
+Dialogue: 0,0:25:22.04,0:25:23.81,Kara,,0,0,0,,{\k5}The {\k1}{\k38}final {\k1}{\k31}verse {\k1}{\k10}of {\k1}{\k53}Genesis
+Dialogue: 0,0:25:23.48,0:25:25.44,Kara,,0,0,0,,{\k33}2 {\k46}{\k6}The {\k1}{\k33}state {\k1}{\k33}before {\k1}{\k8}the
+Dialogue: 0,0:25:25.11,0:25:27.78,Kara,,0,0,0,,{\k41}fall {\k45}{\k39}Naked {\k45}{\k62}Unashamed
+Dialogue: 0,0:25:27.88,0:25:30.47,Kara,,0,0,0,,{\k52}Completely {\k1}{\k87}transparent {\k45}{\k15}No {\k1}{\k23}hidden
+Dialogue: 0,0:25:30.13,0:25:32.68,Kara,,0,0,0,,{\k42}state {\k45}{\k16}No {\k1}{\k41}private {\k1}{\k73}variables
+Dialogue: 0,0:25:32.78,0:25:35.28,Kara,,0,0,0,,{\k18}No {\k1}{\k50}encryption {\k1}{\k35}needed {\k45}{\k38}Adam {\k14}{\k12}and
+Dialogue: 0,0:25:35.01,0:25:36.92,Kara,,0,0,0,,{\k26}Eve {\k1}{\k20}have {\k1}{\k45}nothing {\k1}{\k10}to {\k1}{\k50}hide
+Dialogue: 0,0:25:36.97,0:25:39.04,Kara,,0,0,0,,{\k19}from {\k1}{\k45}God {\k39}{\k14}from {\k1}{\k20}each {\k1}{\k31}other
+Dialogue: 0,0:25:38.99,0:25:41.18,Kara,,0,0,0,,{\k18}from {\k1}{\k72}themselves {\k45}{\k23}This {\k1}{\k11}is {\k1}{\k11}the
+Dialogue: 0,0:25:40.84,0:25:43.27,Kara,,0,0,0,,{\k64}pre-fallen {\k1}{\k42}state {\k46}{\k7}The {\k1}{\k46}pre-bug
+Dialogue: 0,0:25:42.93,0:25:45.28,Kara,,0,0,0,,{\k57}condition {\k46}{\k6}The {\k1}{\k46}system {\k1}{\k31}running {\k1}{\k10}at
+Dialogue: 0,0:25:44.94,0:25:47.63,Kara,,0,0,0,,{\k52}perfect {\k1}{\k64}integrity {\k45}{\k20}No {\k1}{\k50}errors
+Dialogue: 0,0:25:47.73,0:25:50.17,Kara,,0,0,0,,{\k15}No {\k1}{\k75}exceptions {\k45}{\k15}No {\k1}{\k57}corruption
+Dialogue: 0,0:25:50.27,0:25:52.15,Kara,,0,0,0,,{\k18}No {\k1}{\k39}sin {\k46}{\k5}The {\k1}{\k30}code {\k1}{\k11}is
+Dialogue: 0,0:25:51.82,0:25:53.85,Kara,,0,0,0,,{\k41}clean {\k46}{\k5}The {\k1}{\k62}processes {\k1}{\k11}are
+Dialogue: 0,0:25:53.52,0:25:55.78,Kara,,0,0,0,,{\k82}synchronized {\k46}{\k9}The {\k1}{\k41}I/O {\k1}{\k11}is
+Dialogue: 0,0:25:55.45,0:25:57.57,Kara,,0,0,0,,{\k57}perfect {\k53}{\k28}Humans {\k1}{\k38}have
+Dialogue: 0,0:25:57.76,0:26:00.14,Kara,,0,0,0,,{\k83}✅ {\k1}{\k43}Direct {\k1}{\k61}access {\k1}{\k12}to
+Dialogue: 0,0:25:59.81,0:26:02.04,Kara,,0,0,0,,{\k43}God {\k42}{\k22}no {\k1}{\k80}authentication
+Dialogue: 0,0:26:01.71,0:26:04.26,Kara,,0,0,0,,{\k58}required {\k53}{\k109}✅
+Dialogue: 0,0:26:03.92,0:26:06.34,Kara,,0,0,0,,{\k53}Perfect {\k1}{\k62}environment {\k31}{\k59}localhost
+Dialogue: 0,0:26:06.00,0:26:08.72,Kara,,0,0,0,,{\k73}paradise {\k53}{\k110}✅
+Dialogue: 0,0:26:08.50,0:26:10.84,Kara,,0,0,0,,{\k52}Meaningful {\k1}{\k37}work {\k31}{\k29}tending {\k1}{\k7}the {\k1}{\k39}garden
+Dialogue: 0,0:26:11.02,0:26:13.63,Kara,,0,0,0,,{\k103}✅ {\k1}{\k45}Perfect {\k1}{\k76}relationship
+Dialogue: 0,0:26:13.75,0:26:15.59,Kara,,0,0,0,,{\k30}Eve {\k15}{\k12}and {\k1}{\k30}Adam {\k1}{\k8}in {\k1}{\k50}harmony
+Dialogue: 0,0:26:15.77,0:26:17.90,Kara,,0,0,0,,{\k91}✅ {\k1}{\k86}Immortality
+Dialogue: 0,0:26:17.94,0:26:19.88,Kara,,0,0,0,,{\k56}access {\k1}{\k11}to {\k1}{\k31}tree {\k1}{\k10}of {\k1}{\k46}life
+Dialogue: 0,0:26:20.07,0:26:22.63,Kara,,0,0,0,,{\k100}✅ {\k1}{\k67}Innocence {\k33}{\k20}no
+Dialogue: 0,0:26:22.29,0:26:24.76,Kara,,0,0,0,,{\k52}knowledge {\k1}{\k9}of {\k1}{\k39}evil {\k42}{\k18}no {\k1}{\k48}shame
+Dialogue: 0,0:26:24.86,0:26:27.41,Kara,,0,0,0,,{\k23}This {\k1}{\k13}is {\k1}{\k171}version 1.0 {\k1}{\k8}of
+Dialogue: 0,0:26:27.08,0:26:29.50,Kara,,0,0,0,,{\k64}humanity {\k45}{\k24}This {\k1}{\k11}is {\k1}{\k8}the {\k1}{\k52}intended
+Dialogue: 0,0:26:29.17,0:26:30.93,Kara,,0,0,0,,{\k45}state {\k46}{\k15}This {\k1}{\k11}is {\k1}{\k12}what {\k1}{\k8}the
+Dialogue: 0,0:26:30.60,0:26:33.23,Kara,,0,0,0,,{\k50}Programmer {\k1}{\k54}designed {\k48}{\k23}But {\k42}{\k10}and
+Dialogue: 0,0:26:32.89,0:26:34.27,Kara,,0,0,0,,{\k11}you {\k1}{\k20}know {\k1}{\k19}this {\k1}{\k14}is {\k1}{\k34}coming
+Dialogue: 0,0:26:34.35,0:26:35.70,Kara,,0,0,0,,{\k16}there's {\k1}{\k6}a {\k1}{\k35}file {\k1}{\k15}they're {\k1}{\k23}not
+Dialogue: 0,0:26:35.36,0:26:37.63,Kara,,0,0,0,,{\k41}supposed {\k1}{\k7}to {\k1}{\k71}access {\k45}{\k4}A {\k1}{\k20}tree
+Dialogue: 0,0:26:37.29,0:26:39.00,Kara,,0,0,0,,{\k14}they're {\k1}{\k20}not {\k1}{\k41}supposed {\k1}{\k7}to {\k1}{\k49}touch
+Dialogue: 0,0:26:39.09,0:26:41.15,Kara,,0,0,0,,{\k4}A {\k1}{\k45}module {\k1}{\k14}that {\k1}{\k49}requires {\k1}{\k54}permissions
+Dialogue: 0,0:26:40.81,0:26:42.56,Kara,,0,0,0,,{\k10}they {\k1}{\k22}don't {\k1}{\k43}have {\k45}{\k10}And {\k1}{\k7}in
+Dialogue: 0,0:26:42.22,0:26:44.37,Kara,,0,0,0,,{\k8}the {\k1}{\k30}next {\k1}{\k49}episode {\k41}{\k18}we'll {\k1}{\k30}watch
+Dialogue: 0,0:26:44.03,0:26:46.58,Kara,,0,0,0,,{\k12}what {\k1}{\k46}happens {\k1}{\k20}when {\k8}{\k81}unauthorized {\k1}{\k47}access
+Dialogue: 0,0:26:46.25,0:26:48.69,Kara,,0,0,0,,{\k56}occurs {\k45}{\k7}When {\k1}{\k8}the {\k1}{\k42}forbidden {\k1}{\k47}file
+Dialogue: 0,0:26:48.35,0:26:50.63,Kara,,0,0,0,,{\k23}gets {\k1}{\k68}executed {\k45}{\k8}When {\k1}{\k8}the {\k1}{\k37}first
+Dialogue: 0,0:26:50.30,0:26:52.68,Kara,,0,0,0,,{\k41}bug {\k14}{\k31}enters {\k1}{\k10}the {\k1}{\k48}system {\k46}{\k12}But
+Dialogue: 0,0:26:52.35,0:26:54.75,Kara,,0,0,0,,{\k46}tonight {\k31}{\k45}tonight {\k26}{\k26}rest {\k1}{\k30}here
+Dialogue: 0,0:26:54.85,0:26:56.39,Kara,,0,0,0,,{\k7}In {\k1}{\k8}the {\k1}{\k41}garden {\k45}{\k7}In {\k1}{\k8}the
+Dialogue: 0,0:26:56.06,0:26:58.42,Kara,,0,0,0,,{\k52}pre-fall {\k1}{\k45}state {\k45}{\k7}In {\k1}{\k7}the {\k1}{\k42}moment
+Dialogue: 0,0:26:58.08,0:27:00.31,Kara,,0,0,0,,{\k16}when {\k11}{\k42}everything {\k1}{\k16}was {\k1}{\k33}good {\k45}{\k22}Close
+Dialogue: 0,0:26:59.97,0:27:02.04,Kara,,0,0,0,,{\k12}your {\k1}{\k46}eyes {\k45}{\k15}You've {\k1}{\k16}been {\k1}{\k34}reading
+Dialogue: 0,0:27:01.71,0:27:04.06,Kara,,0,0,0,,{\k54}Genesis {\k1}{\k12}your {\k1}{\k22}whole {\k1}{\k43}life {\k24}{\k39}maybe
+Dialogue: 0,0:27:04.17,0:27:05.39,Kara,,0,0,0,,{\k7}Or {\k1}{\k13}you've {\k1}{\k25}never {\k1}{\k19}read {\k1}{\k18}it
+Dialogue: 0,0:27:05.49,0:27:07.93,Kara,,0,0,0,,{\k20}Doesn't {\k1}{\k38}matter {\k46}{\k34}Tonight {\k43}{\k8}you {\k1}{\k16}read
+Dialogue: 0,0:27:07.59,0:27:09.95,Kara,,0,0,0,,{\k9}it {\k1}{\k54}differently {\k45}{\k11}You {\k1}{\k23}saw {\k1}{\k54}creation
+Dialogue: 0,0:27:09.62,0:27:11.81,Kara,,0,0,0,,{\k12}as {\k1}{\k42}code {\k45}{\k15}As {\k1}{\k68}architecture
+Dialogue: 0,0:27:11.91,0:27:13.44,Kara,,0,0,0,,{\k14}As {\k1}{\k8}the {\k1}{\k65}deployment {\k8}{\k8}of {\k1}{\k11}an
+Dialogue: 0,0:27:13.11,0:27:15.44,Kara,,0,0,0,,{\k49}operating {\k1}{\k46}system {\k46}{\k12}And {\k1}{\k14}you {\k1}{\k27}saw
+Dialogue: 0,0:27:15.11,0:27:16.83,Kara,,0,0,0,,{\k66}yourself {\k29}{\k42}human
+Dialogue: 0,0:27:16.87,0:27:19.53,Kara,,0,0,0,,{\k72}conscious {\k23}{\k64}creative {\k43}{\k15}as {\k1}{\k12}the
+Dialogue: 0,0:27:19.26,0:27:21.42,Kara,,0,0,0,,{\k34}image {\k1}{\k8}of {\k1}{\k8}the {\k1}{\k68}Programmer {\k46}{\k12}Think
+Dialogue: 0,0:27:21.08,0:27:22.85,Kara,,0,0,0,,{\k26}about {\k1}{\k30}that {\k45}{\k10}You {\k1}{\k7}are {\k1}{\k20}not
+Dialogue: 0,0:27:22.51,0:27:25.16,Kara,,0,0,0,,{\k8}an {\k1}{\k56}accident {\k45}{\k24}Not {\k1}{\k29}random {\k1}{\k64}mutation
+Dialogue: 0,0:27:25.26,0:27:27.74,Kara,,0,0,0,,{\k19}Not {\k1}{\k41}cosmic {\k1}{\k77}coincidence {\k45}{\k14}You {\k1}{\k14}are
+Dialogue: 0,0:27:27.40,0:27:29.36,Kara,,0,0,0,,{\k41}code {\k12}{\k35}written {\k1}{\k12}in {\k1}{\k14}the {\k7}{\k37}image
+Dialogue: 0,0:27:29.02,0:27:31.09,Kara,,0,0,0,,{\k8}of {\k1}{\k11}the {\k7}{\k46}ultimate {\k1}{\k43}Coder {\k45}{\k10}When
+Dialogue: 0,0:27:30.76,0:27:32.59,Kara,,0,0,0,,{\k12}you {\k1}{\k20}write {\k1}{\k57}class {\k30}{\k8}you {\k1}{\k16}are
+Dialogue: 0,0:27:32.25,0:27:34.56,Kara,,0,0,0,,{\k39}acting {\k1}{\k12}as {\k1}{\k27}God {\k1}{\k57}acts {\k46}{\k10}When
+Dialogue: 0,0:27:34.22,0:27:36.31,Kara,,0,0,0,,{\k11}you {\k1}{\k56}compile {\k1}{\k42}something {\k1}{\k29}new {\k1}{\k31}into
+Dialogue: 0,0:27:35.97,0:27:38.19,Kara,,0,0,0,,{\k72}existence {\k33}{\k7}you {\k1}{\k12}are {\k1}{\k38}doing {\k1}{\k20}what
+Dialogue: 0,0:27:37.85,0:27:40.47,Kara,,0,0,0,,{\k33}God {\k1}{\k50}does {\k46}{\k12}When {\k1}{\k14}you {\k1}{\k68}debug
+Dialogue: 0,0:27:40.46,0:27:42.45,Kara,,0,0,0,,{\k12}when {\k1}{\k12}you {\k1}{\k71}refactor {\k42}{\k10}when {\k1}{\k14}you
+Dialogue: 0,0:27:42.12,0:27:44.22,Kara,,0,0,0,,{\k79}optimize {\k33}{\k8}you {\k1}{\k11}are {\k1}{\k33}tending {\k1}{\k8}the
+Dialogue: 0,0:27:43.88,0:27:45.82,Kara,,0,0,0,,{\k42}garden {\k46}{\k11}You {\k1}{\k10}are {\k1}{\k10}the {\k1}{\k37}site
+Dialogue: 0,0:27:45.49,0:27:48.04,Kara,,0,0,0,,{\k83}reliability {\k1}{\k57}engineer {\k1}{\k15}for {\k1}{\k14}your {\k1}{\k46}corner
+Dialogue: 0,0:27:47.70,0:27:50.20,Kara,,0,0,0,,{\k11}of {\k1}{\k58}reality {\k45}{\k12}And {\k1}{\k50}yes {\k25}{\k11}the
+Dialogue: 0,0:27:49.86,0:27:52.26,Kara,,0,0,0,,{\k37}system {\k1}{\k11}is {\k1}{\k38}fallen {\k1}{\k31}now {\k45}{\k39}Yes
+Dialogue: 0,0:27:52.09,0:27:54.64,Kara,,0,0,0,,{\k14}there {\k1}{\k10}are {\k1}{\k53}bugs {\k45}{\k47}Yes {\k29}{\k20}there's
+Dialogue: 0,0:27:54.30,0:27:56.30,Kara,,0,0,0,,{\k65}corruption {\k8}{\k12}and {\k1}{\k65}chaos {\k1}{\k11}and
+Dialogue: 0,0:27:55.96,0:27:58.38,Kara,,0,0,0,,{\k75}brokenness {\k45}{\k8}We'll {\k1}{\k22}talk {\k1}{\k23}about {\k1}{\k30}that
+Dialogue: 0,0:27:58.47,0:27:59.94,Kara,,0,0,0,,{\k10}We'll {\k1}{\k24}talk {\k1}{\k22}about {\k1}{\k8}the {\k1}{\k42}Fall
+Dialogue: 0,0:27:59.89,0:28:02.17,Kara,,0,0,0,,{\k29}about {\k1}{\k44}sin {\k8}{\k15}as {\k1}{\k57}corrupted {\k1}{\k37}data
+Dialogue: 0,0:28:02.21,0:28:04.59,Kara,,0,0,0,,{\k29}about {\k1}{\k69}redemption {\k11}{\k11}as {\k1}{\k14}the {\k10}{\k57}ultimate
+Dialogue: 0,0:28:04.25,0:28:06.51,Kara,,0,0,0,,{\k57}debugging {\k1}{\k75}process {\k46}{\k12}But
+Dialogue: 0,0:28:06.18,0:28:08.27,Kara,,0,0,0,,{\k49}tonight {\k26}{\k31}before {\k1}{\k10}we {\k1}{\k26}talk {\k1}{\k28}about
+Dialogue: 0,0:28:07.93,0:28:10.01,Kara,,0,0,0,,{\k16}what {\k1}{\k20}went {\k1}{\k38}wrong {\k45}{\k35}Remember {\k1}{\k14}what
+Dialogue: 0,0:28:09.67,0:28:11.71,Kara,,0,0,0,,{\k19}went {\k1}{\k30}right {\k45}{\k10}In {\k1}{\k8}the {\k1}{\k53}beginning
+Dialogue: 0,0:28:11.63,0:28:14.21,Kara,,0,0,0,,{\k29}God {\k1}{\k57}created {\k45}{\k10}And {\k1}{\k33}God {\k1}{\k46}created
+Dialogue: 0,0:28:13.87,0:28:16.00,Kara,,0,0,0,,{\k22}you {\k45}{\k7}In {\k1}{\k8}the {\k1}{\k43}divine {\k1}{\k49}image
+Dialogue: 0,0:28:16.11,0:28:18.08,Kara,,0,0,0,,{\k11}With {\k1}{\k8}the {\k1}{\k71}capacity {\k1}{\k15}to {\k1}{\k52}create
+Dialogue: 0,0:28:18.19,0:28:20.41,Kara,,0,0,0,,{\k14}With {\k1}{\k75}consciousness {\k1}{\k14}that {\k1}{\k15}can {\k1}{\k65}contemplate
+Dialogue: 0,0:28:20.08,0:28:22.25,Kara,,0,0,0,,{\k60}itself {\k46}{\k14}With {\k1}{\k30}free {\k1}{\k12}will {\k1}{\k16}that
+Dialogue: 0,0:28:21.91,0:28:24.50,Kara,,0,0,0,,{\k14}can {\k1}{\k50}choose {\k46}{\k14}With {\k1}{\k83}creativity {\k1}{\k14}that
+Dialogue: 0,0:28:24.17,0:28:26.13,Kara,,0,0,0,,{\k14}can {\k1}{\k47}compile {\k1}{\k8}the {\k1}{\k33}new {\k45}{\k11}You
+Dialogue: 0,0:28:25.80,0:28:27.55,Kara,,0,0,0,,{\k22}write {\k1}{\k37}code {\k46}{\k10}But {\k1}{\k11}you {\k1}{\k11}are
+Dialogue: 0,0:28:27.21,0:28:29.88,Kara,,0,0,0,,{\k41}code {\k45}{\k23}Code {\k1}{\k11}that {\k1}{\k38}became {\k1}{\k71}conscious
+Dialogue: 0,0:28:29.98,0:28:31.92,Kara,,0,0,0,,{\k22}Code {\k1}{\k15}that {\k1}{\k22}writes {\k1}{\k42}code {\k45}{\k10}And
+Dialogue: 0,0:28:31.59,0:28:33.40,Kara,,0,0,0,,{\k16}that {\k1}{\k12}is {\k1}{\k11}the {\k1}{\k48}original {\k1}{\k54}miracle
+Dialogue: 0,0:28:33.52,0:28:35.12,Kara,,0,0,0,,{\k11}That {\k1}{\k10}is {\k1}{\k8}the {\k1}{\k45}initial {\k1}{\k46}commit
+Dialogue: 0,0:28:35.23,0:28:37.49,Kara,,0,0,0,,{\k10}That {\k1}{\k11}is {\k1}{\k68}Genesis {\k45}{\k24}Sleep {\k1}{\k30}now
+Dialogue: 0,0:28:37.17,0:28:39.91,Kara,,0,0,0,,{\k64}developer {\k45}{\k49}Tomorrow {\k43}{\k15}you'll {\k1}{\k22}write
+Dialogue: 0,0:28:39.58,0:28:41.80,Kara,,0,0,0,,{\k22}more {\k1}{\k52}truth {\k12}{\k25}into {\k1}{\k75}existence
+Dialogue: 0,0:28:41.91,0:28:43.88,Kara,,0,0,0,,{\k10}But {\k1}{\k42}tonight {\k33}{\k26}rest {\k1}{\k10}in {\k1}{\k38}this
+Dialogue: 0,0:28:43.98,0:28:45.16,Kara,,0,0,0,,{\k10}You {\k1}{\k10}are {\k1}{\k12}the {\k7}{\k34}image {\k1}{\k7}of
+Dialogue: 0,0:28:44.82,0:28:47.09,Kara,,0,0,0,,{\k8}the {\k1}{\k64}Programmer {\k45}{\k7}And {\k1}{\k8}the {\k1}{\k56}Programmer
+Dialogue: 0,0:28:46.75,0:28:48.47,Kara,,0,0,0,,{\k26}looked {\k1}{\k10}at {\k1}{\k22}you {\k20}{\k10}and {\k1}{\k46}said
+Dialogue: 0,0:28:48.65,0:28:50.48,Kara,,0,0,0,,{\k3}It {\k11}is {\k1}{\k23}very {\k1}{\k35}good {\k48}{\k26}Next
+Dialogue: 0,0:28:50.15,0:28:52.81,Kara,,0,0,0,,{\k43}Episode {\k1}{\k49}Preview {\k52}{\k37}Episode {\k8}{\k41}2
+Dialogue: 0,0:28:52.77,0:28:55.17,Kara,,0,0,0,,{\k60}Genesis {\k1}{\k87}3-4 {\k1}{\k10}The {\k1}{\k45}First
+Dialogue: 0,0:28:54.83,0:28:57.03,Kara,,0,0,0,,{\k35}Bug {\k35}{\k11}When {\k1}{\k8}the {\k1}{\k50}forbidden {\k1}{\k41}file
+Dialogue: 0,0:28:56.69,0:28:59.01,Kara,,0,0,0,,{\k23}gets {\k10}{\k64}executed {\k34}{\k13}when {\k1}{\k52}social
+Dialogue: 0,0:28:58.68,0:29:01.27,Kara,,0,0,0,,{\k65}engineering {\k1}{\k49}breaches {\k1}{\k10}the {\k1}{\k53}system {\k34}{\k10}when
+Dialogue: 0,0:29:00.93,0:29:02.98,Kara,,0,0,0,,{\k8}the {\k1}{\k35}first {\k1}{\k62}exception {\k1}{\k49}corrupts {\k1}{\k10}the
+Dialogue: 0,0:29:02.65,0:29:04.76,Kara,,0,0,0,,{\k69}codebase {\k26}{\k12}and {\k1}{\k15}when {\k1}{\k52}process
+Dialogue: 0,0:29:04.43,0:29:06.28,Kara,,0,0,0,,{\k23}. {\k1}{\k39}kill {\k33}{\k10}is {\k1}{\k30}called {\k1}{\k12}for
+Dialogue: 0,0:29:05.95,0:29:07.10,Kara,,0,0,0,,{\k8}the {\k1}{\k35}first {\k1}{\k34}time

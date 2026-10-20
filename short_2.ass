@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Kara,DejaVu Sans,72,&H005EAFD4,&H00FFFFFF,&H00140A05,&H66140A05,-1,0,0,0,100,100,0.5,0,3,14,0,2,60,60,620,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.27,0:00:02.43,Kara,,0,0,0,,{\k39}creates {\k1}{\k98}self-replicating {\k1}{\k41}code
+Dialogue: 0,0:00:02.61,0:00:04.93,Kara,,0,0,0,,{\k7}The {\k31}herb {\k1}{\k48}yielding {\k1}{\k42}seed {\k45}{\k22}whose
+Dialogue: 0,0:00:04.59,0:00:07.18,Kara,,0,0,0,,{\k42}seed {\k18}{\k15}is {\k1}{\k15}in {\k1}{\k67}itself {\k48}{\k18}This
+Dialogue: 0,0:00:06.85,0:00:09.33,Kara,,0,0,0,,{\k12}is {\k1}{\k50}DNA {\k46}{\k16}This {\k1}{\k11}is {\k1}{\k73}biological
+Dialogue: 0,0:00:09.00,0:00:11.21,Kara,,0,0,0,,{\k42}code {\k45}{\k22}This {\k1}{\k12}is {\k1}{\k7}a {\k1}{\k54}program
+Dialogue: 0,0:00:10.87,0:00:12.84,Kara,,0,0,0,,{\k12}that {\k1}{\k53}contains {\k1}{\k18}its {\k14}{\k23}own {\k1}{\k38}source
+Dialogue: 0,0:00:12.50,0:00:15.05,Kara,,0,0,0,,{\k46}code {\k35}{\k14}that {\k1}{\k12}can {\k1}{\k57}compile {\k1}{\k52}copies
+Dialogue: 0,0:00:14.71,0:00:17.06,Kara,,0,0,0,,{\k8}of {\k1}{\k65}itself {\k31}{\k14}that {\k1}{\k18}can {\k1}{\k60}reproduce
+Dialogue: 0,0:00:16.73,0:00:19.35,Kara,,0,0,0,,{\k46}without {\k1}{\k50}external {\k1}{\k60}intervention {\k45}{\k23}God
+Dialogue: 0,0:00:19.01,0:00:21.30,Kara,,0,0,0,,{\k34}creates {\k1}{\k5}a {\k1}{\k58}factory {\k1}{\k42}pattern {\k45}{\k5}A
+Dialogue: 0,0:00:20.96,0:00:23.00,Kara,,0,0,0,,{\k46}template {\k45}{\k7}A {\k1}{\k41}class {\k1}{\k12}that {\k1}{\k14}can
+Dialogue: 0,0:00:22.66,0:00:25.00,Kara,,0,0,0,,{\k79}instantiate {\k1}{\k50}copies {\k1}{\k8}of {\k1}{\k57}itself
+Dialogue: 0,0:00:25.11,0:00:26.97,Kara,,0,0,0,,{\k15}This {\k1}{\k11}is {\k1}{\k11}the {\k1}{\k41}first {\k8}{\k61}algorithm
+Dialogue: 0,0:00:26.63,0:00:29.22,Kara,,0,0,0,,{\k23}that {\k1}{\k30}runs {\k1}{\k79}indefinitely {\k46}{\k5}The {\k1}{\k37}first
+Dialogue: 0,0:00:28.89,0:00:31.36,Kara,,0,0,0,,{\k50}autonomous {\k1}{\k72}process {\k46}{\k7}The {\k1}{\k34}first
+Dialogue: 0,0:00:31.02,0:00:32.48,Kara,,0,0,0,,{\k27}code {\k1}{\k16}that {\k1}{\k35}doesn't {\k1}{\k19}need {\k1}{\k8}the
+Dialogue: 0,0:00:32.15,0:00:34.60,Kara,,0,0,0,,{\k62}Programmer {\k1}{\k12}to {\k1}{\k67}manually {\k1}{\k50}execute {\k1}{\k14}it
+Dialogue: 0,0:00:34.44,0:00:36.67,Kara,,0,0,0,,{\k20}every {\k1}{\k41}time {\k45}{\k27}God {\k1}{\k42}creates {\k1}{\k8}the
+Dialogue: 0,0:00:36.33,0:00:38.84,Kara,,0,0,0,,{\k58}initial {\k1}{\k75}instances {\k20}{\k61}grass

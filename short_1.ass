@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Kara,DejaVu Sans,72,&H005EAFD4,&H00FFFFFF,&H00140A05,&H66140A05,-1,0,0,0,100,100,0.5,0,3,14,0,2,60,60,620,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.09,0:00:01.85,Kara,,0,0,0,,{\k8}the {\k1}{\k48}beginning {\k11}{\k16}was {\k1}{\k9}the {\k1}{\k44}Code
+Dialogue: 0,0:00:01.94,0:00:03.19,Kara,,0,0,0,,{\k7}And {\k1}{\k8}the {\k1}{\k41}Code {\k1}{\k15}was {\k1}{\k14}with
+Dialogue: 0,0:00:02.85,0:00:04.90,Kara,,0,0,0,,{\k7}the {\k1}{\k62}Programmer {\k45}{\k7}And {\k1}{\k8}the {\k1}{\k37}Code
+Dialogue: 0,0:00:04.56,0:00:06.90,Kara,,0,0,0,,{\k15}was {\k1}{\k10}the {\k1}{\k64}Programmer {\k45}{\k28}God {\k1}{\k33}doesn't
+Dialogue: 0,0:00:06.56,0:00:09.07,Kara,,0,0,0,,{\k43}create {\k11}{\k19}through {\k1}{\k58}physical {\k1}{\k81}manipulation
+Dialogue: 0,0:00:09.17,0:00:11.86,Kara,,0,0,0,,{\k23}God {\k1}{\k53}creates {\k1}{\k20}through {\k1}{\k72}information {\k49}{\k12}Through
+Dialogue: 0,0:00:11.52,0:00:14.14,Kara,,0,0,0,,{\k49}structured {\k1}{\k35}data {\k49}{\k16}Through {\k1}{\k75}executable
+Dialogue: 0,0:00:13.80,0:00:15.95,Kara,,0,0,0,,{\k79}instructions {\k45}{\k31}This {\k1}{\k11}is {\k1}{\k11}the
+Dialogue: 0,0:00:15.61,0:00:17.88,Kara,,0,0,0,,{\k62}thesis {\k1}{\k22}of {\k16}{\k26}all {\k1}{\k62}reality
+Dialogue: 0,0:00:17.96,0:00:20.70,Kara,,0,0,0,,{\k76}Information {\k1}{\k60}precedes {\k1}{\k49}matter {\k46}{\k5}The
+Dialogue: 0,0:00:20.37,0:00:22.40,Kara,,0,0,0,,{\k64}physicist {\k1}{\k29}John {\k1}{\k34}Wheeler {\k1}{\k23}said {\k1}{\k14}it
+Dialogue: 0,0:00:22.54,0:00:24.67,Kara,,0,0,0,,{\k11}It {\k1}{\k19}from {\k1}{\k44}bit {\k46}{\k27}Meaning {\k1}{\k27}comes
+Dialogue: 0,0:00:24.33,0:00:26.71,Kara,,0,0,0,,{\k33}before {\k1}{\k60}material {\k45}{\k33}Pattern {\k1}{\k30}comes
+Dialogue: 0,0:00:26.37,0:00:28.88,Kara,,0,0,0,,{\k38}before {\k1}{\k54}particle {\k46}{\k7}The {\k1}{\k38}code {\k1}{\k29}comes
+Dialogue: 0,0:00:28.55,0:00:31.18,Kara,,0,0,0,,{\k35}before {\k1}{\k8}the {\k1}{\k73}compilation {\k45}{\k25}God {\k1}{\k38}spoke
+Dialogue: 0,0:00:30.84,0:00:33.22,Kara,,0,0,0,,{\k7}the {\k1}{\k60}universe {\k1}{\k26}into {\k1}{\k69}existence {\k1}{\k35}because
+Dialogue: 0,0:00:32.88,0:00:34.85,Kara,,0,0,0,,{\k69}speaking {\k16}{\k12}is {\k1}{\k62}encoding
+Dialogue: 0,0:00:34.95,0:00:36.88,Kara,,0,0,0,,{\k49}Language {\k14}{\k11}is {\k1}{\k26}data {\k1}{\k57}structure
+Dialogue: 0,0:00:36.98,0:00:39.22,Kara,,0,0,0,,{\k37}Commands {\k1}{\k12}are {\k1}{\k76}executable {\k45}{\k7}And {\k1}{\k8}the
