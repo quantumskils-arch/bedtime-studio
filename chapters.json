@@ -1,0 +1,142 @@
+{
+ "ep1_andrew": {
+  "chapters": [
+   [
+    "Intro / wind-down",
+    0.108
+   ],
+   [
+    "Genesis 1:1",
+    74.945
+   ],
+   [
+    "Day 1 - Let there be light",
+    179.532
+   ],
+   [
+    "Day 2 - The sky",
+    451.187
+   ],
+   [
+    "Day 3 - Land + vegetation",
+    539.91
+   ],
+   [
+    "Day 4 - Sun, moon, stars",
+    680.884
+   ],
+   [
+    "Day 5 - Fish and birds",
+    782.037
+   ],
+   [
+    "Day 6 - Animals + humanity",
+    898.359
+   ],
+   [
+    "Made in God's image",
+    940.234
+   ],
+   [
+    "The Garden / Eden",
+    1158.293
+   ],
+   [
+    "Closing - rest here",
+    1613.122
+   ],
+   [
+    "Next episode preview",
+    1734.263
+   ]
+  ],
+  "hooks": [
+   [
+    "In the beginning was the Code",
+    243.037
+   ],
+   [
+    "self-replicating code",
+    590.734
+   ],
+   [
+    "one restriction",
+    1255.573
+   ],
+   [
+    "image of the Programmer",
+    1723.978
+   ]
+  ]
+ },
+ "ep1_ryan": {
+  "chapters": [
+   [
+    "Intro / wind-down",
+    0.1
+   ],
+   [
+    "Genesis 1:1",
+    92.726
+   ],
+   [
+    "Day 1 - Let there be light",
+    218.741
+   ],
+   [
+    "Day 2 - The sky",
+    560.333
+   ],
+   [
+    "Day 3 - Land + vegetation",
+    665.183
+   ],
+   [
+    "Day 4 - Sun, moon, stars",
+    824.141
+   ],
+   [
+    "Day 5 - Fish and birds",
+    940.129
+   ],
+   [
+    "Day 6 - Animals + humanity",
+    1077.08
+   ],
+   [
+    "Made in God's image",
+    1124.009
+   ],
+   [
+    "The Garden / Eden",
+    1375.713
+   ],
+   [
+    "Closing - rest here",
+    1912.118
+   ],
+   [
+    "Next episode preview",
+    2064.4
+   ]
+  ],
+  "hooks": [
+   [
+    "In the beginning was the Code",
+    304.637
+   ],
+   [
+    "self-replicating code",
+    720.948
+   ],
+   [
+    "one restriction",
+    1480.215
+   ],
+   [
+    "image of the Programmer",
+    2051.996
+   ]
+  ]
+ }
+}

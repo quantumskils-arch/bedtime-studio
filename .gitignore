@@ -1,0 +1,11 @@
+# rendered media (large, reproducible from scripts)
+*.mp4
+*.mp3
+*.wav
+*_chunks/
+*_cap.srt
+tts_andrew.log
+
+# keep scripts, narration source, artwork specs and upload pack
+!cover.png
+!thumb.jpg
